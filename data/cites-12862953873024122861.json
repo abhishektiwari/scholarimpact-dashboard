@@ -1,0 +1,203 @@
+[
+  {
+    "citing_paper_title": "An Iterative Approach for Detecting and Resolving Cyclic Dependencies Anti-Pattern in Microservices Architectures.",
+    "citing_authors": "H Farsi, D Allaki, A En-Nouaary…",
+    "citing_year": 2025,
+    "citing_venue": "International journal of intelligent engineering and systems",
+    "citing_paper_url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=2185310X&AN=185222197&h=QsPoQyXu6tdHMq%2FW26jIK0NOixbgxkN4HGwYTeB8R6f2%2FFMdxjjo%2BDDAbpvwj5fQ%2BePLrdeWiRtRDY445tXYoA%3D%3D&crl=c",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "H Farsi",
+        "profile_url": "https://scholar.google.com/citations?user=TVqDKc0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "D Allaki",
+        "profile_url": "https://scholar.google.com/citations?user=w8lYOoQAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Hassan Farsi",
+        "affiliation": "Software engineer / PhD candidate at Institut national des postes et télécommunications",
+        "institution_display_name": "Software engineer / PhD candidate at Institut national des postes et télécommunications",
+        "country": "MA",
+        "email_domain": "doctorant.inpt.ac.ma",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=TVqDKc0AAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      },
+      {
+        "name": "Driss Allaki",
+        "affiliation": "Institut National des Postes et Télécommunications",
+        "institution_display_name": "Institut National des Postes et Télécommunications",
+        "country": "MA",
+        "email_domain": "inpt.ac.ma",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=w8lYOoQAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software System Performance and Reliability",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Microservice Architecture of Alibaba",
+    "citing_authors": "A Tiwari",
+    "citing_year": 2024,
+    "citing_venue": "Abhishek Tiwari",
+    "citing_paper_url": "https://www.abhishek-tiwari.com/microservice-architecture-of-alibaba/",
+    "pdf_url": "https://www.abhishek-tiwari.com/pdf/microservice-architecture-of-alibaba.pdf",
+    "scholar_profiles": [],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "Abhishek Tiwari",
+        "affiliation": "Jewish General Hospital",
+        "institution_display_name": "Jewish General Hospital",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5100628407",
+        "openalex_institution_id": "https://openalex.org/I2801824472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software System Performance and Reliability",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "A Unified Framework for Anomaly Detection and Root Cause Analysis in Microservice Systems",
+    "citing_authors": "O Meyer, E Johnson, J Brown",
+    "citing_year": 2025,
+    "citing_venue": "Computer Life",
+    "citing_paper_url": "http://computer-life.org/index.php/ojs/article/view/10",
+    "pdf_url": "http://computer-life.org/index.php/ojs/article/download/10/10",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Oliver Meyer",
+        "affiliation": "German Red Cross",
+        "institution_display_name": "German Red Cross",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5058895074",
+        "openalex_institution_id": "https://openalex.org/I2801931480",
+        "source": "openalex"
+      },
+      {
+        "name": "Eric A. Johnson",
+        "affiliation": "Kaiser Permanente Washington Health Research Institute",
+        "institution_display_name": "Kaiser Permanente Washington Health Research Institute",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5071953944",
+        "openalex_institution_id": "https://openalex.org/I150117356",
+        "source": "openalex"
+      },
+      {
+        "name": "Jacob D. Brown",
+        "affiliation": "Brigham Young University",
+        "institution_display_name": "Brigham Young University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5076864279",
+        "openalex_institution_id": "https://openalex.org/I100005738",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software System Performance and Reliability",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Distributed Traces of Microservices Architecture: Publicly Available Datasets",
+    "citing_authors": "A Tiwari",
+    "citing_year": 2024,
+    "citing_venue": "Abhishek Tiwari",
+    "citing_paper_url": "https://www.abhishek-tiwari.com/distributed-traces-of-microservices-architecture-publicly-available-datasets/",
+    "pdf_url": "https://www.abhishek-tiwari.com/pdf/distributed-traces-of-microservices-architecture-publicly-available-datasets.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Abhishek Tiwari",
+        "affiliation": "Jewish General Hospital",
+        "institution_display_name": "Jewish General Hospital",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5100628407",
+        "openalex_institution_id": "https://openalex.org/I2801824472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software System Performance and Reliability",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "The Hidden Cost of Success: Understanding Non-Fatal Errors in Microservices",
+    "citing_authors": "A Tiwari",
+    "citing_year": 2024,
+    "citing_venue": "Abhishek Tiwari",
+    "citing_paper_url": "https://www.abhishek-tiwari.com/the-hidden-cost-of-success-understanding-non-fatal-errors-in-microservices/",
+    "pdf_url": "https://www.abhishek-tiwari.com/pdf/the-hidden-cost-of-success-understanding-non-fatal-errors-in-microservices.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Abhishek Tiwari",
+        "affiliation": "Jewish General Hospital",
+        "institution_display_name": "Jewish General Hospital",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5100628407",
+        "openalex_institution_id": "https://openalex.org/I2801824472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software System Performance and Reliability",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  }
+]

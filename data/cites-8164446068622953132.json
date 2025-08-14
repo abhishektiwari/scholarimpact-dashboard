@@ -1,0 +1,24 @@
+[
+  {
+    "citing_paper_title": "Malicious database request identification",
+    "citing_authors": "P Fagan, N Bell",
+    "citing_year": 2024,
+    "citing_venue": "US Patent 12,111,912",
+    "citing_paper_url": "https://patents.google.com/patent/US12111912B2/en",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 2,
+    "citing_authors_details": []
+  },
+  {
+    "citing_paper_title": "Multiform persistence abstraction",
+    "citing_authors": "A Healing, P Fagan, M Turner",
+    "citing_year": 2021,
+    "citing_venue": "US Patent 11,157,506",
+    "citing_paper_url": "https://patents.google.com/patent/US11157506B2/en",
+    "pdf_url": "https://patentimages.storage.googleapis.com/34/b2/e3/39e82703ac2dcf/US11157506.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": []
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "scholar_id": "Mb7eYKYAAAAJ",
+  "name": "A Tiwari",
+  "affiliation": "Head of Engineering at Amazon",
+  "total_citations": 251,
+  "interests": [
+    "Network Analysis",
+    "Software Engineering",
+    "Microservices",
+    "Security",
+    "Privacy Engineering"
+  ],
+  "email_domain": "@amazon.com",
+  "homepage": "https://www.abhishek-tiwari.com/",
+  "hindex": 5,
+  "i10index": 3,
+  "hindex5y": 4,
+  "i10index5y": 2,
+  "scholar_profile_url": "https://scholar.google.com/citations?user=Mb7eYKYAAAAJ",
+  "total_publications": 7,
+  "analysis_date": "2025-08-13T20:54:16.728023",
+  "publications_analyzed": 7,
+  "articles": [
+    {
+      "title": "Workflow based framework for life science informatics",
+      "authors": "Abhishek Tiwari and Arvind KT Sekhar",
+      "year": 2007,
+      "total_citations": 148,
+      "google_scholar_url": "https://www.sciencedirect.com/science/article/pii/S1476927107001107",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=3246870659010184193",
+      "cites_id": "3246870659010184193",
+      "analysis_date": "2025-08-13T20:53:53.916194"
+    },
+    {
+      "title": "HBAT: a complete package for analysing strong and weak hydrogen bonds in macromolecular crystal structures",
+      "authors": "Abhishek Tiwari and Sunil K Panigrahi",
+      "year": 2007,
+      "total_citations": 77,
+      "google_scholar_url": "https://journals.sagepub.com/doi/abs/10.3233/ISI-2007-00337",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=14327779248726238147,7620908687830067523",
+      "cites_id": "14327779248726238147,7620908687830067523",
+      "analysis_date": "2025-08-13T20:53:57.827256"
+    },
+    {
+      "title": "HBNG: Graph theory based visualization of hydrogen bond networks in protein structures",
+      "authors": "Abhishek Tiwari and Vivek Tiwari",
+      "year": 2007,
+      "total_citations": 10,
+      "google_scholar_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2139992/",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=201898556188435628",
+      "cites_id": "201898556188435628",
+      "analysis_date": "2025-08-13T20:54:01.897036"
+    },
+    {
+      "title": "A sidecar for your service mesh",
+      "authors": "Abhishek Tiwari",
+      "year": 2017,
+      "total_citations": 6,
+      "google_scholar_url": "https://www.abhishek-tiwari.com/pdf/a-sidecar-for-your-service-mesh.pdf",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=17570202700690028105",
+      "cites_id": "17570202700690028105",
+      "analysis_date": "2025-08-13T20:54:05.880303"
+    },
+    {
+      "title": "Unveiling Graph Structures in Microservices: Service Dependency Graph, Call Graph, and Causal Graph",
+      "authors": "Abhishek Tiwari",
+      "year": 2024,
+      "total_citations": 5,
+      "google_scholar_url": "https://www.abhishek-tiwari.com/unveiling-graph-structures-in-microservices-service-dependency-graph-call-graph-and-causal-graph/",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=12862953873024122861",
+      "cites_id": "12862953873024122861",
+      "analysis_date": "2025-08-13T20:54:09.481626"
+    },
+    {
+      "title": "Decoupling deployment and release-feature toggles",
+      "authors": "Abhishek Tiwari",
+      "year": 2019,
+      "total_citations": 3,
+      "google_scholar_url": "https://www.abhishek-tiwari.com/pdf/decoupling-deployment-and-release-feature-toggles.pdf",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=7310799069748154075",
+      "cites_id": "7310799069748154075",
+      "analysis_date": "2025-08-13T20:54:13.023872"
+    },
+    {
+      "title": "Polyglot Persistence Patterns",
+      "authors": "Abhishek Tiwari",
+      "year": 2012,
+      "total_citations": 2,
+      "google_scholar_url": "https://scholar.google.com/scholar?cluster=8164446068622953132&hl=en&oi=scholarr",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=8164446068622953132",
+      "cites_id": "8164446068622953132",
+      "analysis_date": "2025-08-13T20:54:16.728004"
+    }
+  ]
+}

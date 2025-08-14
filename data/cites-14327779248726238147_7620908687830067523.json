@@ -1,0 +1,4800 @@
+[
+  {
+    "citing_paper_title": "Halogen bonding (X‐bonding): A biological perspective",
+    "citing_authors": "MR Scholfield, CMV Zanden, M Carter…",
+    "citing_year": 2013,
+    "citing_venue": "Protein Science",
+    "citing_paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.2201",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.2201",
+    "scholar_profiles": [
+      {
+        "name": "CMV Zanden",
+        "profile_url": "https://scholar.google.com/citations?user=xJFQKrgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 497,
+    "citing_authors_details": [
+      {
+        "name": "Matthew R. Scholfield",
+        "affiliation": "Colorado State University",
+        "institution_display_name": "Colorado State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5086180848",
+        "openalex_institution_id": "https://openalex.org/I92446798",
+        "source": "openalex"
+      },
+      {
+        "name": "Crystal M. Vander Zanden",
+        "affiliation": "Colorado State University",
+        "institution_display_name": "Colorado State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5039130055",
+        "openalex_institution_id": "https://openalex.org/I92446798",
+        "source": "openalex"
+      },
+      {
+        "name": "Megan Carter",
+        "affiliation": "Colorado State University",
+        "institution_display_name": "Colorado State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5046874022",
+        "openalex_institution_id": "https://openalex.org/I92446798",
+        "source": "openalex"
+      },
+      {
+        "name": "P Shing Ho",
+        "affiliation": "Colorado State University",
+        "institution_display_name": "Colorado State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5069937373",
+        "openalex_institution_id": "https://openalex.org/I92446798",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Crystallography and molecular interactions",
+      "subfield": {
+        "display_name": "Physical and Theoretical Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "LARMD: integration of bioinformatic resources to profile ligand-driven protein dynamics with a case on the activation of estrogen receptor",
+    "citing_authors": "JF Yang, F Wang, YZ Chen, GF Hao…",
+    "citing_year": 2020,
+    "citing_venue": "Briefings in Bioinformatics",
+    "citing_paper_url": "https://academic.oup.com/bib/article-abstract/21/6/2206/5650973",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "JF Yang",
+        "profile_url": "https://scholar.google.com/citations?user=-BPI60IAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "YZ Chen",
+        "profile_url": "https://scholar.google.com/citations?user=784B-f0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "GF Hao",
+        "profile_url": "https://scholar.google.com/citations?user=kACkbKUAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 132,
+    "citing_authors_details": [
+      {
+        "name": "Jing‐Fang Yang",
+        "affiliation": "Central China Normal University",
+        "institution_display_name": "Central China Normal University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5041577726",
+        "openalex_institution_id": "https://openalex.org/I40963666",
+        "source": "openalex"
+      },
+      {
+        "name": "Fan Wang",
+        "affiliation": "Central China Normal University",
+        "institution_display_name": "Central China Normal University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5049437380",
+        "openalex_institution_id": "https://openalex.org/I40963666",
+        "source": "openalex"
+      },
+      {
+        "name": "Yu Chen",
+        "affiliation": "National University of Singapore",
+        "institution_display_name": "National University of Singapore",
+        "country": "SG",
+        "openalex_author_id": "https://openalex.org/A5077700312",
+        "openalex_institution_id": "https://openalex.org/I165932596",
+        "source": "openalex"
+      },
+      {
+        "name": "Ge‐Fei Hao",
+        "affiliation": "Central China Normal University",
+        "institution_display_name": "Central China Normal University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5068847247",
+        "openalex_institution_id": "https://openalex.org/I40963666",
+        "source": "openalex"
+      },
+      {
+        "name": "Guang‐Fu Yang",
+        "affiliation": "Central China Normal University",
+        "institution_display_name": "Central China Normal University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5102707897",
+        "openalex_institution_id": "https://openalex.org/I40963666",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Computational Drug Discovery Methods",
+      "subfield": {
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Biomolecular halogen bonds",
+    "citing_authors": "PS Ho",
+    "citing_year": 2014,
+    "citing_venue": "Topics in current chemistry",
+    "citing_paper_url": "https://link.springer.com/chapter/10.1007/128_2014_551",
+    "pdf_url": "http://ndl.ethernet.edu.et/bitstream/123456789/72835/1/2015_Book_HalogenBondingI.pdf#page=247",
+    "scholar_profiles": [
+      {
+        "name": "PS Ho",
+        "profile_url": "https://scholar.google.com/citations?user=qoY8YnAAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 62,
+    "citing_authors_details": [
+      {
+        "name": "P Shing Ho",
+        "affiliation": "Colorado State University",
+        "institution_display_name": "Colorado State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5069937373",
+        "openalex_institution_id": "https://openalex.org/I92446798",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Crystallography and molecular interactions",
+      "subfield": {
+        "display_name": "Physical and Theoretical Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Thrombin–aptamer recognition: a revealed ambiguity",
+    "citing_authors": "I Russo Krauss, A Merlino, C Giancola…",
+    "citing_year": 2011,
+    "citing_venue": "Nucleic Acids Research",
+    "citing_paper_url": "https://academic.oup.com/nar/article-abstract/39/17/7858/2411899",
+    "pdf_url": "https://academic.oup.com/nar/article-pdf/39/17/7858/16779438/gkr522.pdf",
+    "scholar_profiles": [
+      {
+        "name": "I Russo Krauss",
+        "profile_url": "https://scholar.google.com/citations?user=81YDVqMAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "A Merlino",
+        "profile_url": "https://scholar.google.com/citations?user=9qYbk6AAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "C Giancola",
+        "profile_url": "https://scholar.google.com/citations?user=TAxGj1kAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 191,
+    "citing_authors_details": [
+      {
+        "name": "Irene Russo Krauss",
+        "affiliation": "Dip. di Chimica ' Paolo Corradini', Università di Napoli Federico II, Via Cintia, I-80126 Napoli Italia, 2 Ist. di Biostrutture e Bioimmagini, CNR, Via Mezzocannone 16, I-80134 Napoli, Italia and 3 Dip. di Chimica delle Sostanze Naturali, Università di Napoli Federico II, Via D. Montesano 49, I-8013 Napoli, Italia",
+        "institution_display_name": "University of Naples Federico II",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5036984647",
+        "openalex_institution_id": "https://openalex.org/I71267560",
+        "source": "openalex"
+      },
+      {
+        "name": "Antonello Merlino",
+        "affiliation": "Dip. di Chimica ' Paolo Corradini', Università di Napoli Federico II, Via Cintia, I-80126 Napoli Italia, 2 Ist. di Biostrutture e Bioimmagini, CNR, Via Mezzocannone 16, I-80134 Napoli, Italia and 3 Dip. di Chimica delle Sostanze Naturali, Università di Napoli Federico II, Via D. Montesano 49, I-8013 Napoli, Italia",
+        "institution_display_name": "University of Naples Federico II",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5055343051",
+        "openalex_institution_id": "https://openalex.org/I71267560",
+        "source": "openalex"
+      },
+      {
+        "name": "Concetta Giancola",
+        "affiliation": "Dip. di Chimica ' Paolo Corradini', Università di Napoli Federico II, Via Cintia, I-80126 Napoli Italia, 2 Ist. di Biostrutture e Bioimmagini, CNR, Via Mezzocannone 16, I-80134 Napoli, Italia and 3 Dip. di Chimica delle Sostanze Naturali, Università di Napoli Federico II, Via D. Montesano 49, I-8013 Napoli, Italia",
+        "institution_display_name": "University of Naples Federico II",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5068862723",
+        "openalex_institution_id": "https://openalex.org/I71267560",
+        "source": "openalex"
+      },
+      {
+        "name": "Antonio Randazzo",
+        "affiliation": "Dip. di Chimica ' Paolo Corradini', Università di Napoli Federico II, Via Cintia, I-80126 Napoli Italia, 2 Ist. di Biostrutture e Bioimmagini, CNR, Via Mezzocannone 16, I-80134 Napoli, Italia and 3 Dip. di Chimica delle Sostanze Naturali, Università di Napoli Federico II, Via D. Montesano 49, I-8013 Napoli, Italia",
+        "institution_display_name": "University of Naples Federico II",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5068215153",
+        "openalex_institution_id": "https://openalex.org/I71267560",
+        "source": "openalex"
+      },
+      {
+        "name": "L. Mazzarella",
+        "affiliation": "Dip. di Chimica ' Paolo Corradini', Università di Napoli Federico II, Via Cintia, I-80126 Napoli Italia, 2 Ist. di Biostrutture e Bioimmagini, CNR, Via Mezzocannone 16, I-80134 Napoli, Italia and 3 Dip. di Chimica delle Sostanze Naturali, Università di Napoli Federico II, Via D. Montesano 49, I-8013 Napoli, Italia",
+        "institution_display_name": "Sapienza University of Rome",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5035401744",
+        "openalex_institution_id": "https://openalex.org/I861853513",
+        "source": "openalex"
+      },
+      {
+        "name": "Filomena Sica",
+        "affiliation": "Dip. di Chimica ' Paolo Corradini', Università di Napoli Federico II, Via Cintia, I-80126 Napoli Italia, 2 Ist. di Biostrutture e Bioimmagini, CNR, Via Mezzocannone 16, I-80134 Napoli, Italia and 3 Dip. di Chimica delle Sostanze Naturali, Università di Napoli Federico II, Via D. Montesano 49, I-8013 Napoli, Italia",
+        "institution_display_name": "University of Naples Federico II",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5068959451",
+        "openalex_institution_id": "https://openalex.org/I71267560",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Advanced biosensing and bioanalysis techniques",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Bridge: A graph-based algorithm to analyze dynamic H-bond networks in membrane proteins",
+    "citing_authors": "M Siemers, M Lazaratos, K Karathanou…",
+    "citing_year": 2019,
+    "citing_venue": "Journal of Chemical Theory and Computation",
+    "citing_paper_url": "https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00697",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "M Siemers",
+        "profile_url": "https://scholar.google.com/citations?user=-kNdKVUAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "M Lazaratos",
+        "profile_url": "https://scholar.google.com/citations?user=oB3kyN0AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 64,
+    "citing_authors_details": [
+      {
+        "name": "Malte Siemers",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5032836048",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      },
+      {
+        "name": "Michalis Lazaratos",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5046769229",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      },
+      {
+        "name": "Konstantina Karathanou",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5023758361",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      },
+      {
+        "name": "Federico Guerra",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5038708358",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      },
+      {
+        "name": "Leonid S. Brown",
+        "affiliation": "University of Guelph",
+        "institution_display_name": "University of Guelph",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5079791860",
+        "openalex_institution_id": "https://openalex.org/I79817857",
+        "source": "openalex"
+      },
+      {
+        "name": "Ana‐Nicoleta Bondar",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5043039841",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Photoreceptor and optogenetics research",
+      "subfield": {
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "A syn–anti conformational difference allows SRSF2 to recognize guanines and cytosines equally well",
+    "citing_authors": "GM Daubner, A Cléry, S Jayne, J Stevenin…",
+    "citing_year": 2012,
+    "citing_venue": "The EMBO Journal",
+    "citing_paper_url": "https://www.embopress.org/doi/abs/10.1038/emboj.2011.367",
+    "pdf_url": "https://www.embopress.org/doi/pdf/10.1038/emboj.2011.367",
+    "scholar_profiles": [
+      {
+        "name": "A Cléry",
+        "profile_url": "https://scholar.google.com/citations?user=JGkSMdUAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 153,
+    "citing_authors_details": [
+      {
+        "name": "Gerrit M. Daubner",
+        "affiliation": "ETH Zurich",
+        "institution_display_name": "ETH Zurich",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5009116241",
+        "openalex_institution_id": "https://openalex.org/I35440088",
+        "source": "openalex"
+      },
+      {
+        "name": "Antoine Cléry",
+        "affiliation": "ETH Zurich",
+        "institution_display_name": "ETH Zurich",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5037966423",
+        "openalex_institution_id": "https://openalex.org/I35440088",
+        "source": "openalex"
+      },
+      {
+        "name": "Sandrine Jayne",
+        "affiliation": "ETH Zurich",
+        "institution_display_name": "ETH Zurich",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5088901076",
+        "openalex_institution_id": "https://openalex.org/I35440088",
+        "source": "openalex"
+      },
+      {
+        "name": "James Stévenin",
+        "affiliation": "Génétique Moléculaire Génomique Microbiologie",
+        "institution_display_name": "Génétique Moléculaire Génomique Microbiologie",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5109134808",
+        "openalex_institution_id": "https://openalex.org/I4210148000",
+        "source": "openalex"
+      },
+      {
+        "name": "Frédéric H.‐T. Allain",
+        "affiliation": "ETH Zurich",
+        "institution_display_name": "ETH Zurich",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5088099050",
+        "openalex_institution_id": "https://openalex.org/I35440088",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "RNA modifications and cancer",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Interactive interface for graph-based analyses of dynamic H-bond networks: application to spike protein S",
+    "citing_authors": "M Siemers, AN Bondar",
+    "citing_year": 2021,
+    "citing_venue": "Journal of Chemical Information and Modeling",
+    "citing_paper_url": "https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00306",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "M Siemers",
+        "profile_url": "https://scholar.google.com/citations?user=-kNdKVUAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "AN Bondar",
+        "profile_url": "https://scholar.google.com/citations?user=IPKE4DgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 31,
+    "citing_authors_details": [
+      {
+        "name": "Malte Siemers",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5032836048",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      },
+      {
+        "name": "Ana‐Nicoleta Bondar",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5043039841",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Hydrophobic surface residues can stabilize a protein through improved water–protein interactions",
+    "citing_authors": "MM Islam, K Kobayashi, SI Kidokoro…",
+    "citing_year": 2019,
+    "citing_venue": "FEBS Journal",
+    "citing_paper_url": "https://febs.onlinelibrary.wiley.com/doi/abs/10.1111/febs.14941",
+    "pdf_url": "https://febs.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/febs.14941",
+    "scholar_profiles": [
+      {
+        "name": "MM Islam",
+        "profile_url": "https://scholar.google.com/citations?user=dKS4v_gAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "SI Kidokoro",
+        "profile_url": "https://scholar.google.com/citations?user=Y6iqulgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 49,
+    "citing_authors_details": [
+      {
+        "name": "Mohammad Monirul Islam",
+        "affiliation": "University of Chittagong",
+        "institution_display_name": "University of Chittagong",
+        "country": "BD",
+        "openalex_author_id": "https://openalex.org/A5103896998",
+        "openalex_institution_id": "https://openalex.org/I894293524",
+        "source": "openalex"
+      },
+      {
+        "name": "Kei Kobayashi",
+        "affiliation": "Tokyo University of Agriculture and Technology",
+        "institution_display_name": "Tokyo University of Agriculture and Technology",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5101739348",
+        "openalex_institution_id": "https://openalex.org/I92614990",
+        "source": "openalex"
+      },
+      {
+        "name": "Shun‐ichi Kidokoro",
+        "affiliation": "Nagaoka University of Technology",
+        "institution_display_name": "Nagaoka University of Technology",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5053955058",
+        "openalex_institution_id": "https://openalex.org/I85922643",
+        "source": "openalex"
+      },
+      {
+        "name": "Yutaka Kuroda",
+        "affiliation": "Tokyo University of Agriculture and Technology",
+        "institution_display_name": "Tokyo University of Agriculture and Technology",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5010639542",
+        "openalex_institution_id": "https://openalex.org/I92614990",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Strong and weak hydrogen bonds in protein-ligand complexes of kinases: a comparative study",
+    "citing_authors": "SK Panigrahi",
+    "citing_year": 2008,
+    "citing_venue": "Amino Acids",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s00726-007-0015-4",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "SK Panigrahi",
+        "profile_url": "https://scholar.google.com/citations?user=qKuvQXQAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 89,
+    "citing_authors_details": [
+      {
+        "name": "Sunil K. Panigrahi",
+        "affiliation": "University of Hyderabad",
+        "institution_display_name": "University of Hyderabad",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5041043444",
+        "openalex_institution_id": "https://openalex.org/I36893310",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Computational Drug Discovery Methods",
+      "subfield": {
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "The Vanadium Iodoperoxidase from the Marine Flavobacteriaceae Species Zobellia galactanivorans Reveals Novel Molecular and Evolutionary Features of Halide Specificity in the Vanadium Haloperoxidase Enzyme Family",
+    "citing_authors": "JB Fournier, E Rebuffet, L Delage, R Grijol…",
+    "citing_year": 2014,
+    "citing_venue": "Applied and Environmental Microbiology",
+    "citing_paper_url": "https://journals.asm.org/doi/abs/10.1128/aem.02430-14",
+    "pdf_url": "https://journals.asm.org/doi/pdf/10.1128/aem.02430-14",
+    "scholar_profiles": [],
+    "citations_count": 66,
+    "citing_authors_details": [
+      {
+        "name": "Jean‐Baptiste Fournier",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5028007220",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "E. Rebuffet",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5071326301",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Ludovic Delage",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5000544083",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Romain Grijol",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5074625675",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Laurence Meslet‐Cladière",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5077789922",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Justyna Rzonca",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5030183163",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Philippe Potin",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5086632056",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Gurvan Michel",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5082328626",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Mirjam Czjzek",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5079418780",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      },
+      {
+        "name": "Catherine Leblanc",
+        "affiliation": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "institution_display_name": "Laboratoire de Biologie Intégrative des Modèles Marins",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5006550850",
+        "openalex_institution_id": "https://openalex.org/I4210087003",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Vanadium and Halogenation Chemistry",
+      "subfield": {
+        "display_name": "Inorganic Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "In-Silico Computing of the Most Deleterious nsSNPs in HBA1 Gene",
+    "citing_authors": "S AbdulAzeez, JF Borgio",
+    "citing_year": 2016,
+    "citing_venue": "PloS one",
+    "citing_paper_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147702",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0147702&type=printable",
+    "scholar_profiles": [
+      {
+        "name": "JF Borgio",
+        "profile_url": "https://scholar.google.com/citations?user=Z43FbpEAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 54,
+    "citing_authors_details": [
+      {
+        "name": "Sayed AbdulAzeez",
+        "affiliation": "Imam Abdulrahman Bin Faisal University",
+        "institution_display_name": "Imam Abdulrahman Bin Faisal University",
+        "country": "SA",
+        "openalex_author_id": "https://openalex.org/A5080906686",
+        "openalex_institution_id": "https://openalex.org/I76571253",
+        "source": "openalex"
+      },
+      {
+        "name": "J. Francis Borgio",
+        "affiliation": "Imam Abdulrahman Bin Faisal University",
+        "institution_display_name": "Imam Abdulrahman Bin Faisal University",
+        "country": "SA",
+        "openalex_author_id": "https://openalex.org/A5009701292",
+        "openalex_institution_id": "https://openalex.org/I76571253",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Genomics and Rare Diseases",
+      "subfield": {
+        "display_name": "Genetics"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Structure-Based Design of DevR Inhibitor Active against Nonreplicating Mycobacterium tuberculosis",
+    "citing_authors": "RK Gupta, TS Thakur, GR Desiraju…",
+    "citing_year": 2009,
+    "citing_venue": "Journal of Medicinal Chemistry",
+    "citing_paper_url": "https://pubs.acs.org/doi/abs/10.1021/jm900358q",
+    "pdf_url": "http://pstorage-acs-6854636.s3.amazonaws.com/4516774/jm900358q_si_001.pdf",
+    "scholar_profiles": [
+      {
+        "name": "RK Gupta",
+        "profile_url": "https://scholar.google.com/citations?user=O5U16G4AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "TS Thakur",
+        "profile_url": "https://scholar.google.com/citations?user=DVWXtH8AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "GR Desiraju",
+        "profile_url": "https://scholar.google.com/citations?user=Fmn1qZEAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 92,
+    "citing_authors_details": [
+      {
+        "name": "Rajesh Kumar Gupta",
+        "affiliation": "All India Institute of Medical Sciences",
+        "institution_display_name": "All India Institute of Medical Sciences",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5015696485",
+        "openalex_institution_id": "https://openalex.org/I63739035",
+        "source": "openalex"
+      },
+      {
+        "name": "Tejender S. Thakur",
+        "affiliation": "University of Hyderabad",
+        "institution_display_name": "University of Hyderabad",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5022166394",
+        "openalex_institution_id": "https://openalex.org/I36893310",
+        "source": "openalex"
+      },
+      {
+        "name": "Gautam R. Desiraju",
+        "affiliation": "University of Hyderabad",
+        "institution_display_name": "University of Hyderabad",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5064424943",
+        "openalex_institution_id": "https://openalex.org/I36893310",
+        "source": "openalex"
+      },
+      {
+        "name": "Jaya Sivaswami Tyagi",
+        "affiliation": "All India Institute of Medical Sciences",
+        "institution_display_name": "All India Institute of Medical Sciences",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5059245133",
+        "openalex_institution_id": "https://openalex.org/I63739035",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Tuberculosis Research and Epidemiology",
+      "subfield": {
+        "display_name": "Infectious Diseases"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Frequent side chain methyl carbon‐oxygen hydrogen bonding in proteins revealed by computational and stereochemical analysis of neutron structures",
+    "citing_authors": "JD Yesselman, S Horowitz…",
+    "citing_year": 2015,
+    "citing_venue": "Proteins Structure Function and Bioinformatics",
+    "citing_paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.24724",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4747036/pdf/nihms-643625.pdf",
+    "scholar_profiles": [
+      {
+        "name": "JD Yesselman",
+        "profile_url": "https://scholar.google.com/citations?user=kcLsmp4AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Horowitz",
+        "profile_url": "https://scholar.google.com/citations?user=rRWc6MsAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 50,
+    "citing_authors_details": [
+      {
+        "name": "Joseph D. Yesselman",
+        "affiliation": "University of Michigan",
+        "institution_display_name": "University of Michigan",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5035373472",
+        "openalex_institution_id": "https://openalex.org/I27837315",
+        "source": "openalex"
+      },
+      {
+        "name": "Scott Horowitz",
+        "affiliation": "University of Michigan",
+        "institution_display_name": "University of Michigan",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5023133343",
+        "openalex_institution_id": "https://openalex.org/I27837315",
+        "source": "openalex"
+      },
+      {
+        "name": "Charles L. Brooks",
+        "affiliation": "University of Michigan",
+        "institution_display_name": "University of Michigan",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5060440052",
+        "openalex_institution_id": "https://openalex.org/I27837315",
+        "source": "openalex"
+      },
+      {
+        "name": "Raymond C. Trievel",
+        "affiliation": "University of Michigan",
+        "institution_display_name": "University of Michigan",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5091496526",
+        "openalex_institution_id": "https://openalex.org/I27837315",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Crystallography and molecular interactions",
+      "subfield": {
+        "display_name": "Physical and Theoretical Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Computational biology and bioinformatics: gene regulation",
+    "citing_authors": "KC Wong",
+    "citing_year": 2016,
+    "citing_venue": "The Yale Journal of Biology and Medicine",
+    "citing_paper_url": "https://books.google.com/books?hl=en&lr=&id=MuwbDAAAQBAJ&oi=fnd&pg=PP1&ots=gxAyLouLy8&sig=j-CbgvJbDd9sNLjtKoEyXav4Ngw",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "KC Wong",
+        "profile_url": "https://scholar.google.com/citations?user=nZH_Ws8AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 45,
+    "citing_authors_details": [
+      {
+        "name": "Amelia Hallworth",
+        "affiliation": "Yale University",
+        "institution_display_name": "Yale University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5031219841",
+        "openalex_institution_id": "https://openalex.org/I32971472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Genetics, Bioinformatics, and Biomedical Research",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Multifactorial level of extremostability of proteins: can they be exploited for protein engineering?",
+    "citing_authors": "D Chakravorty, MF Khan, S Patra",
+    "citing_year": 2017,
+    "citing_venue": "Extremophiles",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s00792-016-0908-9",
+    "pdf_url": "https://www.researchgate.net/profile/Mohd-Faheem-Khan-2/publication/315044880_Multifactorial_level_of_extremostability_of_proteins_can_they_be_exploited_for_protein_engineering/links/5b326378aca2720785e9555b/Multifactorial-level-of-extremostability-of-proteins-can-they-be-exploited-for-protein-engineering.pdf",
+    "scholar_profiles": [
+      {
+        "name": "D Chakravorty",
+        "profile_url": "https://scholar.google.com/citations?user=BPN2Kx0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "MF Khan",
+        "profile_url": "https://scholar.google.com/citations?user=2w9S26cAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Patra",
+        "profile_url": "https://scholar.google.com/citations?user=Gizuc5QAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 30,
+    "citing_authors_details": [
+      {
+        "name": "Debamitra Chakravorty",
+        "affiliation": "Indian Institute of Technology Guwahati",
+        "institution_display_name": "Indian Institute of Technology Guwahati",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5082475901",
+        "openalex_institution_id": "https://openalex.org/I1317621060",
+        "source": "openalex"
+      },
+      {
+        "name": "Mohd Faheem Khan",
+        "affiliation": "Indian Institute of Technology Guwahati",
+        "institution_display_name": "Indian Institute of Technology Guwahati",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5011409257",
+        "openalex_institution_id": "https://openalex.org/I1317621060",
+        "source": "openalex"
+      },
+      {
+        "name": "Sanjukta Patra",
+        "affiliation": "Indian Institute of Technology Guwahati",
+        "institution_display_name": "Indian Institute of Technology Guwahati",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5033520366",
+        "openalex_institution_id": "https://openalex.org/I1317621060",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Enzyme Structure and Function",
+      "subfield": {
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Using graphs of dynamic hydrogen-bond networks to dissect conformational coupling in a protein motor",
+    "citing_authors": "K Karathanou, AN Bondar",
+    "citing_year": 2019,
+    "citing_venue": "Journal of Chemical Information and Modeling",
+    "citing_paper_url": "https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00979",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "AN Bondar",
+        "profile_url": "https://scholar.google.com/citations?user=IPKE4DgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 24,
+    "citing_authors_details": [
+      {
+        "name": "Konstantina Karathanou",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5023758361",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      },
+      {
+        "name": "Ana‐Nicoleta Bondar",
+        "affiliation": "Freie Universität Berlin",
+        "institution_display_name": "Freie Universität Berlin",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5043039841",
+        "openalex_institution_id": "https://openalex.org/I75951250",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Low-barrier hydrogen bonds in proteins",
+    "citing_authors": "MV Hosur, R Chitra, S Hegde…",
+    "citing_year": 2013,
+    "citing_venue": "Journal of the American Chemical Society",
+    "citing_paper_url": "https://www.tandfonline.com/doi/abs/10.1080/0889311X.2013.771633",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "S Hegde",
+        "profile_url": "https://scholar.google.com/citations?user=1S1yqpAAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 35,
+    "citing_authors_details": [
+      {
+        "name": "Marc Nadal-Ferret",
+        "affiliation": "Universitat Autònoma de Barcelona",
+        "institution_display_name": "Universitat Autònoma de Barcelona",
+        "country": "ES",
+        "openalex_author_id": "https://openalex.org/A5015555955",
+        "openalex_institution_id": "https://openalex.org/I123044942",
+        "source": "openalex"
+      },
+      {
+        "name": "Ricard Gelabert",
+        "affiliation": "Universitat Autònoma de Barcelona",
+        "institution_display_name": "Universitat Autònoma de Barcelona",
+        "country": "ES",
+        "openalex_author_id": "https://openalex.org/A5048926679",
+        "openalex_institution_id": "https://openalex.org/I123044942",
+        "source": "openalex"
+      },
+      {
+        "name": "Miquel Moreno",
+        "affiliation": "Universitat Autònoma de Barcelona",
+        "institution_display_name": "Universitat Autònoma de Barcelona",
+        "country": "ES",
+        "openalex_author_id": "https://openalex.org/A5025048287",
+        "openalex_institution_id": "https://openalex.org/I123044942",
+        "source": "openalex"
+      },
+      {
+        "name": "José M. Lluch",
+        "affiliation": "Universitat Autònoma de Barcelona",
+        "institution_display_name": "Universitat Autònoma de Barcelona",
+        "country": "ES",
+        "openalex_author_id": "https://openalex.org/A5019073507",
+        "openalex_institution_id": "https://openalex.org/I123044942",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Photoreceptor and optogenetics research",
+      "subfield": {
+        "display_name": "Cellular and Molecular Neuroscience"
+      },
+      "field": {
+        "display_name": "Neuroscience"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Halogen bonding in complexes of proteins and non-natural amino acids",
+    "citing_authors": "SZ Borozan, SĐ Stojanović",
+    "citing_year": 2013,
+    "citing_venue": "Computational Biology and Chemistry",
+    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S1476927113000935",
+    "pdf_url": "https://www.academia.edu/download/44530801/and_cation_interactions_in_proteinporphy20160408-22778-nyuv8.pdf",
+    "scholar_profiles": [
+      {
+        "name": "SZ Borozan",
+        "profile_url": "https://scholar.google.com/citations?user=tXAMPyUAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 32,
+    "citing_authors_details": [
+      {
+        "name": "Sunčica Borozan",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5041949087",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      },
+      {
+        "name": "Srđan Đ. Stojanović",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5001441119",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Crystallography and molecular interactions",
+      "subfield": {
+        "display_name": "Physical and Theoretical Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Synthesis, spectroscopic characterization and biological activities of transition metal complexes derived from a tridentate Schiff base",
+    "citing_authors": "JS Kumaran, S Priya, N Jayachandramani…",
+    "citing_year": 2013,
+    "citing_venue": "Journal of Chemistry",
+    "citing_paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1155/2013/260358",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1155/2013/260358",
+    "scholar_profiles": [],
+    "citations_count": 28,
+    "citing_authors_details": [
+      {
+        "name": "J. Senthil Kumaran",
+        "affiliation": "University of Madras",
+        "institution_display_name": "University of Madras",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5022953064",
+        "openalex_institution_id": "https://openalex.org/I215927",
+        "source": "openalex"
+      },
+      {
+        "name": "S. Priya",
+        "affiliation": "University of Madras",
+        "institution_display_name": "University of Madras",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5113715964",
+        "openalex_institution_id": "https://openalex.org/I215927",
+        "source": "openalex"
+      },
+      {
+        "name": "Natesan Jayachandramani",
+        "affiliation": "University of Madras",
+        "institution_display_name": "University of Madras",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5073965751",
+        "openalex_institution_id": "https://openalex.org/I215927",
+        "source": "openalex"
+      },
+      {
+        "name": "S. Mahalakshmi",
+        "affiliation": "University of Madras",
+        "institution_display_name": "University of Madras",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5052516835",
+        "openalex_institution_id": "https://openalex.org/I215927",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Metal complexes synthesis and properties",
+      "subfield": {
+        "display_name": "Oncology"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Simultaneously improved thermostability and hydrolytic pattern of alpha-amylase by engineering central beta strands of TIM barrel",
+    "citing_authors": "CH Wang, LH Lu, C Huang, BF He…",
+    "citing_year": 2020,
+    "citing_venue": "Applied Biochemistry and Biotechnology",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s12010-020-03308-8",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 14,
+    "citing_authors_details": [
+      {
+        "name": "Chenghua Wang",
+        "affiliation": "Guangxi University",
+        "institution_display_name": "Guangxi University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5101779992",
+        "openalex_institution_id": "https://openalex.org/I150807315",
+        "source": "openalex"
+      },
+      {
+        "name": "Lianghua Lu",
+        "affiliation": "Guangxi University",
+        "institution_display_name": "Guangxi University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5024548538",
+        "openalex_institution_id": "https://openalex.org/I150807315",
+        "source": "openalex"
+      },
+      {
+        "name": "Huang Cheng",
+        "affiliation": "Guangxi University",
+        "institution_display_name": "Guangxi University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5103998229",
+        "openalex_institution_id": "https://openalex.org/I150807315",
+        "source": "openalex"
+      },
+      {
+        "name": "Bingfang He",
+        "affiliation": "Nanjing Tech University",
+        "institution_display_name": "Nanjing Tech University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5101505504",
+        "openalex_institution_id": "https://openalex.org/I134687103",
+        "source": "openalex"
+      },
+      {
+        "name": "Ri‐Bo Huang",
+        "affiliation": "Guangxi University",
+        "institution_display_name": "Guangxi University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5101769146",
+        "openalex_institution_id": "https://openalex.org/I150807315",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Enzyme Production and Characterization",
+      "subfield": {
+        "display_name": "Biotechnology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "The rs61742690 (S783N) single nucleotide polymorphism is a suitable target for disrupting BCL11A-mediated foetal-to-adult globin switching",
+    "citing_authors": "S Abdulazeez, S Sultana, NB Almandil, D Almohazey…",
+    "citing_year": 2019,
+    "citing_venue": "PLoS ONE",
+    "citing_paper_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212492",
+    "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0212492&type=printable",
+    "scholar_profiles": [
+      {
+        "name": "S Sultana",
+        "profile_url": "https://scholar.google.com/citations?user=CKXEC80AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "NB Almandil",
+        "profile_url": "https://scholar.google.com/citations?user=Aftyv54AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "D Almohazey",
+        "profile_url": "https://scholar.google.com/citations?user=sMEDwQMAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 21,
+    "citing_authors_details": [
+      {
+        "name": "Sayed AbdulAzeez",
+        "affiliation": "Imam Abdulrahman Bin Faisal University",
+        "institution_display_name": "Imam Abdulrahman Bin Faisal University",
+        "country": "SA",
+        "openalex_author_id": "https://openalex.org/A5080906686",
+        "openalex_institution_id": "https://openalex.org/I76571253",
+        "source": "openalex"
+      },
+      {
+        "name": "Shaheen Sultana",
+        "affiliation": "Interserve Learning and Employment, As Sawari, Al Khobar, Saudi Arabia",
+        "institution_display_name": "Unknown",
+        "country": "SA",
+        "openalex_author_id": "https://openalex.org/A5101983412",
+        "openalex_institution_id": "Unknown",
+        "source": "openalex"
+      },
+      {
+        "name": "Noor B. Almandil",
+        "affiliation": "Imam Abdulrahman Bin Faisal University",
+        "institution_display_name": "Imam Abdulrahman Bin Faisal University",
+        "country": "SA",
+        "openalex_author_id": "https://openalex.org/A5060811563",
+        "openalex_institution_id": "https://openalex.org/I76571253",
+        "source": "openalex"
+      },
+      {
+        "name": "Dana Almohazey",
+        "affiliation": "Imam Abdulrahman Bin Faisal University",
+        "institution_display_name": "Imam Abdulrahman Bin Faisal University",
+        "country": "SA",
+        "openalex_author_id": "https://openalex.org/A5048006563",
+        "openalex_institution_id": "https://openalex.org/I76571253",
+        "source": "openalex"
+      },
+      {
+        "name": "B. Jesvin Bency",
+        "affiliation": "Department of Biotechnology, Malankara Catholic College, Mariagiri, Kanyakumari District, Kaliakkavilai, Tamil Nadu, India",
+        "institution_display_name": "Unknown",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5037170966",
+        "openalex_institution_id": "Unknown",
+        "source": "openalex"
+      },
+      {
+        "name": "J. Francis Borgio",
+        "affiliation": "Imam Abdulrahman Bin Faisal University",
+        "institution_display_name": "Imam Abdulrahman Bin Faisal University",
+        "country": "SA",
+        "openalex_author_id": "https://openalex.org/A5009701292",
+        "openalex_institution_id": "https://openalex.org/I76571253",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Hemoglobinopathies and Related Disorders",
+      "subfield": {
+        "display_name": "Genetics"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Atomic visualization of flipped‐back conformations of high mannose glycans interacting with cargo lectins: An MD simulation perspective",
+    "citing_authors": "NG Jayaprakash, DK Sarkar…",
+    "citing_year": 2025,
+    "citing_venue": "Proteins Structure Function and Bioinformatics",
+    "citing_paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/prot.26556",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "NG Jayaprakash",
+        "profile_url": "https://scholar.google.com/citations?user=152LRIUAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "DK Sarkar",
+        "profile_url": "https://scholar.google.com/citations?user=egjxiI4AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 2,
+    "citing_authors_details": [
+      {
+        "name": "Nisha Grandhi Jayaprakash",
+        "affiliation": "Contribution: ​Investigation, Writing - original draft, Writing - review & editing, Visualization, Validation, Methodology, Conceptualization, Software, Formal analysis, Data curation",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5010497346",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "Dheeraj Kumar Sarkar",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5088597288",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "Avadhesha Surolia",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5004276030",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Glycosylation and Glycoproteins Research",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Making novel proteins from pseudogenes",
+    "citing_authors": "PR Shidhi, P Suravajhala, A Nayeema, AS Nair…",
+    "citing_year": 2015,
+    "citing_venue": "Bioinformatics",
+    "citing_paper_url": "https://academic.oup.com/bioinformatics/article-abstract/31/1/33/2366243",
+    "pdf_url": "https://academic.oup.com/bioinformatics/article-pdf/31/1/33/49012183/bioinformatics_31_1_33.pdf",
+    "scholar_profiles": [
+      {
+        "name": "PR Shidhi",
+        "profile_url": "https://scholar.google.com/citations?user=cMqTgcgAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "P Suravajhala",
+        "profile_url": "https://scholar.google.com/citations?user=_sO5BT4AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "AS Nair",
+        "profile_url": "https://scholar.google.com/citations?user=wIHOQTIAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 24,
+    "citing_authors_details": [
+      {
+        "name": "P. R. Shidhi",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5071945719",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Prashanth Suravajhala",
+        "affiliation": "Shiv Nadar University",
+        "institution_display_name": "Shiv Nadar University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5043714986",
+        "openalex_institution_id": "https://openalex.org/I26604189",
+        "source": "openalex"
+      },
+      {
+        "name": "Aysha Nayeema",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5089247108",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Achuthsankar S. Nair",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5103619457",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Shailja Singh",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5069082684",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Pawan K. Dhar",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5079955221",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "RNA and protein synthesis mechanisms",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Kernel energy method applied to vesicular stomatitis virus nucleoprotein",
+    "citing_authors": "L Huang, L Massa, J Karle",
+    "citing_year": 2009,
+    "citing_venue": "Proceedings of the National Academy of Sciences",
+    "citing_paper_url": "https://www.pnas.org/doi/abs/10.1073/pnas.0811959106",
+    "pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.0811959106",
+    "scholar_profiles": [],
+    "citations_count": 40,
+    "citing_authors_details": [
+      {
+        "name": "Lulu Huang",
+        "affiliation": "United States Naval Research Laboratory",
+        "institution_display_name": "United States Naval Research Laboratory",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5102939409",
+        "openalex_institution_id": "https://openalex.org/I1288214837",
+        "source": "openalex"
+      },
+      {
+        "name": "Lou Massa",
+        "affiliation": "City University of New York",
+        "institution_display_name": "City University of New York",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5037380376",
+        "openalex_institution_id": "https://openalex.org/I174216632",
+        "source": "openalex"
+      },
+      {
+        "name": "J. Karle",
+        "affiliation": "United States Naval Research Laboratory",
+        "institution_display_name": "United States Naval Research Laboratory",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5112270334",
+        "openalex_institution_id": "https://openalex.org/I1288214837",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Enzyme Structure and Function",
+      "subfield": {
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Insights into Protein—DNA Interactions, Stability and Allosteric Communications: A Computational Study of Mutsα-DNA Recognition Complexes",
+    "citing_authors": "L Negureanu, FR Salsbury",
+    "citing_year": 2012,
+    "citing_venue": "Journal of Biomolecular Structure and Dynamics",
+    "citing_paper_url": "https://www.tandfonline.com/doi/abs/10.1080/07391102.2012.10507412",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3547537/pdf/nihms351387.pdf",
+    "scholar_profiles": [
+      {
+        "name": "FR Salsbury",
+        "profile_url": "https://scholar.google.com/citations?user=M-KJ4zgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 30,
+    "citing_authors_details": [
+      {
+        "name": "Lacramioara Negureanu",
+        "affiliation": "Wake Forest University",
+        "institution_display_name": "Wake Forest University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5069364648",
+        "openalex_institution_id": "https://openalex.org/I47251452",
+        "source": "openalex"
+      },
+      {
+        "name": "Freddie R. Salsbury",
+        "affiliation": "Wake Forest University",
+        "institution_display_name": "Wake Forest University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5000192327",
+        "openalex_institution_id": "https://openalex.org/I47251452",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Genetic factors in colorectal cancer",
+      "subfield": {
+        "display_name": "Pathology and Forensic Medicine"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Interaction studies of Withania somnifera's key metabolite Withaferin A with different receptors associated with cardiovascular disease",
+    "citing_authors": "R Ravindran, N Sharma, S Roy…",
+    "citing_year": 2015,
+    "citing_venue": "… computer-aided drug …",
+    "citing_paper_url": "https://www.benthamdirect.com/content/journals/cad/10.2174/1573409912666151106115848",
+    "pdf_url": "https://www.researchgate.net/profile/Sujata-Roy/publication/283640820_Interaction_Studies_of_Withania_somnifera%27s_Key_Metabolite_Withaferin_A_With_Different_Receptors_Associated_with_Cardiovascular_Disease/links/56f8076c08ae95e8b6d35af1/Interaction-Studies-of-Withania-somniferas-Key-Metabolite-Withaferin-A-With-Different-Receptors-Associated-with-Cardiovascular-Disease.pdf",
+    "scholar_profiles": [
+      {
+        "name": "R Ravindran",
+        "profile_url": "https://scholar.google.com/citations?user=D5FAzdQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "N Sharma",
+        "profile_url": "https://scholar.google.com/citations?user=pbs3TUUAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Roy",
+        "profile_url": "https://scholar.google.com/citations?user=dpOAwj4AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 19,
+    "citing_authors_details": [
+      {
+        "name": "Rekha Ravindran",
+        "affiliation": "Rajalakshmi Engineering Collge",
+        "institution_display_name": "Rajalakshmi Engineering Collge",
+        "country": "IN",
+        "email_domain": "rajalakshmi.edu.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=D5FAzdQAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      },
+      {
+        "name": "Nitika Sharma",
+        "affiliation": "Central Institute for Research on Goats, Mathura",
+        "institution_display_name": "Central Institute for Research on Goats, Mathura",
+        "country": "IN",
+        "email_domain": "icar.gov.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=pbs3TUUAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      },
+      {
+        "name": "Sujata Roy",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": "IN",
+        "email_domain": "rajalakshmi.edu.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=dpOAwj4AAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "Insights into the structure–function relationship of missense mutations in the human TOP2A protein in ovarian cancer",
+    "citing_authors": "K Kavitha, A Mohanapriya",
+    "citing_year": 2024,
+    "citing_venue": "Frontiers in Physics",
+    "citing_paper_url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1358406/full",
+    "pdf_url": "https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1358406/pdf",
+    "scholar_profiles": [
+      {
+        "name": "K Kavitha",
+        "profile_url": "https://scholar.google.com/citations?user=qkWUtvsAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "K. Kavitha",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5050420581",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Mohanapriya Arumugam",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5029605751",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Cancer therapeutics and mechanisms",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Computational resources for predicting protein–protein interactions",
+    "citing_authors": "H Tanwar, CGP Doss",
+    "citing_year": 2018,
+    "citing_venue": "Advances in protein chemistry and structural biology",
+    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S1876162317300615",
+    "pdf_url": "https://www.researchgate.net/profile/Wenwei-Lin-5/publication/319419928_Using_TR-FRET_to_Investigate_Protein-Protein_Interactions_A_Case_Study_of_PXR-Coregulator_Interaction/links/5c1c5e2c92851c22a33af3d2/Using-TR-FRET-to-Investigate-Protein-Protein-Interactions-A-Case-Study-of-PXR-Coregulator-Interaction.pdf#page=264",
+    "scholar_profiles": [
+      {
+        "name": "CGP Doss",
+        "profile_url": "https://scholar.google.com/citations?user=q9IRb6sAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 14,
+    "citing_authors_details": [
+      {
+        "name": "Himani Tanwar",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5085044211",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "C. George Priya Doss",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5004882772",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Bioinformatics and Genomic Networks",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "C‐H…O hydrogen bonds in FK506‐binding protein–ligand interactions",
+    "citing_authors": "S Rajan, K Baek, HS Yoon",
+    "citing_year": 2013,
+    "citing_venue": "Journal of Molecular Recognition",
+    "citing_paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jmr.2299",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "S Rajan",
+        "profile_url": "https://scholar.google.com/citations?user=9pQfs70AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "K Baek",
+        "profile_url": "https://scholar.google.com/citations?user=Lf7r9jEAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "HS Yoon",
+        "profile_url": "https://scholar.google.com/citations?user=CU6SwJkAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 16,
+    "citing_authors_details": [
+      {
+        "name": "S. S. Rajan",
+        "affiliation": "Nanyang Technological University",
+        "institution_display_name": "Nanyang Technological University",
+        "country": "SG",
+        "openalex_author_id": "https://openalex.org/A5000496754",
+        "openalex_institution_id": "https://openalex.org/I172675005",
+        "source": "openalex"
+      },
+      {
+        "name": "Kwanghee Baek",
+        "affiliation": "Kyung Hee University",
+        "institution_display_name": "Kyung Hee University",
+        "country": "KR",
+        "openalex_author_id": "https://openalex.org/A5032248262",
+        "openalex_institution_id": "https://openalex.org/I35928602",
+        "source": "openalex"
+      },
+      {
+        "name": "Ho Sup Yoon",
+        "affiliation": "Nanyang Technological University",
+        "institution_display_name": "Nanyang Technological University",
+        "country": "SG",
+        "openalex_author_id": "https://openalex.org/A5020053329",
+        "openalex_institution_id": "https://openalex.org/I172675005",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Signaling Pathways in Disease",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Homology modeling and docking studies of human Bcl-2L10 protein",
+    "citing_authors": "K Bhargavi, PK Chaitanya, D Ramasree…",
+    "citing_year": 2010,
+    "citing_venue": "Journal of Biomolecular Structure and Dynamics",
+    "citing_paper_url": "https://www.tandfonline.com/doi/abs/10.1080/07391102.2010.10507367",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 36,
+    "citing_authors_details": [
+      {
+        "name": "K Bhargavi",
+        "affiliation": "Osmania University",
+        "institution_display_name": "Osmania University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5000384588",
+        "openalex_institution_id": "https://openalex.org/I8975392",
+        "source": "openalex"
+      },
+      {
+        "name": "P. Chaitanya",
+        "affiliation": "Osmania University",
+        "institution_display_name": "Osmania University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5059311635",
+        "openalex_institution_id": "https://openalex.org/I8975392",
+        "source": "openalex"
+      },
+      {
+        "name": "D. Ramasree",
+        "affiliation": "Osmania University",
+        "institution_display_name": "Osmania University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5014717299",
+        "openalex_institution_id": "https://openalex.org/I8975392",
+        "source": "openalex"
+      },
+      {
+        "name": "Vasavi Malkhed",
+        "affiliation": "Osmania University",
+        "institution_display_name": "Osmania University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5031220953",
+        "openalex_institution_id": "https://openalex.org/I8975392",
+        "source": "openalex"
+      },
+      {
+        "name": "Dwarkanath K. Murthy",
+        "affiliation": "Osmania University",
+        "institution_display_name": "Osmania University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5019282532",
+        "openalex_institution_id": "https://openalex.org/I8975392",
+        "source": "openalex"
+      },
+      {
+        "name": "V. Uma",
+        "affiliation": "Osmania University",
+        "institution_display_name": "Osmania University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5112562983",
+        "openalex_institution_id": "https://openalex.org/I8975392",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Computational Drug Discovery Methods",
+      "subfield": {
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Prediction of a highly deleterious mutation E17K in AKT-1 gene: an in silico approach",
+    "citing_authors": "I Khan, IA Ansari",
+    "citing_year": 2017,
+    "citing_venue": "Biochemistry and Biophysics Reports",
+    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S2405580816301935",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2405580816301935",
+    "scholar_profiles": [
+      {
+        "name": "I Khan",
+        "profile_url": "https://scholar.google.com/citations?user=N-Hd6PMAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "IA Ansari",
+        "profile_url": "https://scholar.google.com/citations?user=s3j7G50AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 13,
+    "citing_authors_details": [
+      {
+        "name": "Imran Khan",
+        "affiliation": "Integral University",
+        "institution_display_name": "Integral University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5082313967",
+        "openalex_institution_id": "https://openalex.org/I189949046",
+        "source": "openalex"
+      },
+      {
+        "name": "Irfan Ahmad Ansari",
+        "affiliation": "Integral University",
+        "institution_display_name": "Integral University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5090956355",
+        "openalex_institution_id": "https://openalex.org/I189949046",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "PI3K/AKT/mTOR signaling in cancer",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Opposing structural changes in two symmetrical polypeptides bring about opposing changes to the thermal stability of a complex integral membrane protein",
+    "citing_authors": "K Holden-Dye, LI Crouch, CM Williams…",
+    "citing_year": 2011,
+    "citing_venue": "Archives of Biochemistry and Biophysics",
+    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S0003986110004212",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 20,
+    "citing_authors_details": [
+      {
+        "name": "Katherine Holden-Dye",
+        "affiliation": "University of Bristol",
+        "institution_display_name": "University of Bristol",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5074629176",
+        "openalex_institution_id": "https://openalex.org/I36234482",
+        "source": "openalex"
+      },
+      {
+        "name": "Lucy I. Crouch",
+        "affiliation": "University of Bristol",
+        "institution_display_name": "University of Bristol",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5079814184",
+        "openalex_institution_id": "https://openalex.org/I36234482",
+        "source": "openalex"
+      },
+      {
+        "name": "Christopher M. Williams",
+        "affiliation": "University of Bristol",
+        "institution_display_name": "University of Bristol",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5103373580",
+        "openalex_institution_id": "https://openalex.org/I36234482",
+        "source": "openalex"
+      },
+      {
+        "name": "Robert A. Bone",
+        "affiliation": "University of Bristol",
+        "institution_display_name": "University of Bristol",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5082793499",
+        "openalex_institution_id": "https://openalex.org/I36234482",
+        "source": "openalex"
+      },
+      {
+        "name": "Jade P.X. Cheng",
+        "affiliation": "University of Bristol",
+        "institution_display_name": "University of Bristol",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5003878188",
+        "openalex_institution_id": "https://openalex.org/I36234482",
+        "source": "openalex"
+      },
+      {
+        "name": "Felix Böhles",
+        "affiliation": "Queen Mary University of London",
+        "institution_display_name": "Queen Mary University of London",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5060404983",
+        "openalex_institution_id": "https://openalex.org/I166337079",
+        "source": "openalex"
+      },
+      {
+        "name": "Peter Heathcote",
+        "affiliation": "Queen Mary University of London",
+        "institution_display_name": "Queen Mary University of London",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5067170943",
+        "openalex_institution_id": "https://openalex.org/I166337079",
+        "source": "openalex"
+      },
+      {
+        "name": "Michael R. Jones",
+        "affiliation": "University of Bristol",
+        "institution_display_name": "University of Bristol",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5067498246",
+        "openalex_institution_id": "https://openalex.org/I36234482",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Computational analysis of BACE1-ligand complex crystal structures and linear discriminant analysis for identification of BACE1 inhibitors with anti P-glycoprotein binding property",
+    "citing_authors": "P Manoharan, K Chennoju…",
+    "citing_year": 2018,
+    "citing_venue": "Journal of Biomolecular Structure and Dynamics",
+    "citing_paper_url": "https://www.tandfonline.com/doi/abs/10.1080/07391102.2016.1276477",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "P Manoharan",
+        "profile_url": "https://scholar.google.com/citations?user=Fg5HjjAAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 16,
+    "citing_authors_details": [
+      {
+        "name": "Prabu Manoharan",
+        "affiliation": "Indian Institute of Chemical Biology",
+        "institution_display_name": "Indian Institute of Chemical Biology",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5043176906",
+        "openalex_institution_id": "https://openalex.org/I160344538",
+        "source": "openalex"
+      },
+      {
+        "name": "Kiranmai Chennoju",
+        "affiliation": "National Institute of Pharmaceutical Education and Research",
+        "institution_display_name": "National Institute of Pharmaceutical Education and Research",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5061186488",
+        "openalex_institution_id": "https://openalex.org/I4210161501",
+        "source": "openalex"
+      },
+      {
+        "name": "Nanda Ghoshal",
+        "affiliation": "Indian Institute of Chemical Biology",
+        "institution_display_name": "Indian Institute of Chemical Biology",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5052277178",
+        "openalex_institution_id": "https://openalex.org/I160344538",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Computational Drug Discovery Methods",
+      "subfield": {
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Identification and characterization of functional single nucleotide polymorphisms (SNPs) in Axin 1 gene: a molecular dynamics approach",
+    "citing_authors": "I Khan, IA Ansari, P Singh, JFP Dass, F Khan",
+    "citing_year": 2018,
+    "citing_venue": "Cell Biochemistry and Biophysics",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s12013-017-0818-1",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "I Khan",
+        "profile_url": "https://scholar.google.com/citations?user=N-Hd6PMAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "IA Ansari",
+        "profile_url": "https://scholar.google.com/citations?user=s3j7G50AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "P Singh",
+        "profile_url": "https://scholar.google.com/citations?user=dqBKYLQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "JFP Dass",
+        "profile_url": "https://scholar.google.com/citations?user=TnFnv6IAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "F Khan",
+        "profile_url": "https://scholar.google.com/citations?user=C6lo7V4AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 12,
+    "citing_authors_details": [
+      {
+        "name": "Imran Khan",
+        "affiliation": "Integral University",
+        "institution_display_name": "Integral University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5082313967",
+        "openalex_institution_id": "https://openalex.org/I189949046",
+        "source": "openalex"
+      },
+      {
+        "name": "Irfan Ahmad Ansari",
+        "affiliation": "Integral University",
+        "institution_display_name": "Integral University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5090956355",
+        "openalex_institution_id": "https://openalex.org/I189949046",
+        "source": "openalex"
+      },
+      {
+        "name": "Pratichi Singh",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5069875882",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "J. Febin Prabhu Dass",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5037013742",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Fahad Khan",
+        "affiliation": "Integral University",
+        "institution_display_name": "Integral University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5069544763",
+        "openalex_institution_id": "https://openalex.org/I189949046",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Wnt/β-catenin signaling in development and cancer",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Influence of CH... O interactions on the structural stability of β-lactamases",
+    "citing_authors": "P Lavanya, S Ramaiah, A Anbarasu",
+    "citing_year": 2013,
+    "citing_venue": "Journal of biological physics",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s10867-013-9324-x",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3758823/pdf/10867_2013_Article_9324.pdf",
+    "scholar_profiles": [
+      {
+        "name": "P Lavanya",
+        "profile_url": "https://scholar.google.com/citations?user=ClkDegkAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Ramaiah",
+        "profile_url": "https://scholar.google.com/citations?user=ElkN_hQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "A Anbarasu",
+        "profile_url": "https://scholar.google.com/citations?user=HDaQh5cAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 16,
+    "citing_authors_details": [
+      {
+        "name": "P Lavanya",
+        "affiliation": "Assistant Professor of English",
+        "institution_display_name": "Assistant Professor of English",
+        "country": "IN",
+        "email_domain": "srecnandyal.edu.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=ClkDegkAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      },
+      {
+        "name": "Dr. Sudha Ramaiah",
+        "affiliation": "VIT",
+        "institution_display_name": "VIT",
+        "country": "IN",
+        "email_domain": "vit.ac.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=ElkN_hQAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      },
+      {
+        "name": "Anand Anbarasu",
+        "affiliation": "VIT University",
+        "institution_display_name": "VIT University",
+        "country": "IN",
+        "email_domain": "vit.ac.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=HDaQh5cAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "Structure of indole-3-glycerol phosphate synthase from Thermus thermophilus HB8: implications for thermal stability",
+    "citing_authors": "B Bagautdinov, K Yutani",
+    "citing_year": 2011,
+    "citing_venue": "Biological Crystallography",
+    "citing_paper_url": "https://journals.iucr.org/paper?S0907444911045264",
+    "pdf_url": "https://www.researchgate.net/profile/Bagautdin-Bagautdinov/publication/51837483_Structure_of_indole-3-glycerol_phosphate_synthase_from_Thermus_thermophilus_HB8_implications_for_thermal_stability/links/00b7d52fd87de6eada000000/Structure-of-indole-3-glycerol-phosphate-synthase-from-Thermus-thermophilus-HB8-implications-for-thermal-stability.pdf",
+    "scholar_profiles": [
+      {
+        "name": "B Bagautdinov",
+        "profile_url": "https://scholar.google.com/citations?user=Ws6wkCMAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 21,
+    "citing_authors_details": [
+      {
+        "name": "B. Bagautdinov",
+        "affiliation": "SPring-8",
+        "institution_display_name": "SPring-8",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5013415378",
+        "openalex_institution_id": "https://openalex.org/I4210104871",
+        "source": "openalex"
+      },
+      {
+        "name": "Katsuhide Yutani",
+        "affiliation": "SPring-8",
+        "institution_display_name": "SPring-8",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5028649351",
+        "openalex_institution_id": "https://openalex.org/I4210104871",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Enzyme Structure and Function",
+      "subfield": {
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Computational analysis of N–H⋯ π interactions and its impact on the structural stability of β-lactamases",
+    "citing_authors": "P Lavanya, S Ramaiah, A Anbarasu",
+    "citing_year": 2014,
+    "citing_venue": "Computers in Biology and Medicine",
+    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S0010482513003661",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "S Ramaiah",
+        "profile_url": "https://scholar.google.com/citations?user=ElkN_hQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "A Anbarasu",
+        "profile_url": "https://scholar.google.com/citations?user=HDaQh5cAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 16,
+    "citing_authors_details": [
+      {
+        "name": "P. Lavanya",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5029486701",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Sudha Ramaiah",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087677407",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Anand Anbarasu",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5044438568",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Antibiotic Resistance in Bacteria",
+      "subfield": {
+        "display_name": "Molecular Medicine"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Structural and functional implications of the QUA2 domain on RNA recognition by GLD-1",
+    "citing_authors": "GM Daubner, A Brümmer, C Tocchini…",
+    "citing_year": 2014,
+    "citing_venue": "Nucleic Acids Research",
+    "citing_paper_url": "https://academic.oup.com/nar/article-abstract/42/12/8092/1103878",
+    "pdf_url": "https://academic.oup.com/nar/article-pdf/42/12/8092/3853932/gku445.pdf",
+    "scholar_profiles": [
+      {
+        "name": "A Brümmer",
+        "profile_url": "https://scholar.google.com/citations?user=ouzMgzoAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 14,
+    "citing_authors_details": [
+      {
+        "name": "Gerrit M. Daubner",
+        "affiliation": "ETH Zurich",
+        "institution_display_name": "ETH Zurich",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5009116241",
+        "openalex_institution_id": "https://openalex.org/I35440088",
+        "source": "openalex"
+      },
+      {
+        "name": "Anneke Brümmer",
+        "affiliation": "University of Basel",
+        "institution_display_name": "University of Basel",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5011475638",
+        "openalex_institution_id": "https://openalex.org/I1850255",
+        "source": "openalex"
+      },
+      {
+        "name": "Cristina Tocchini",
+        "affiliation": "Friedrich Miescher Institute",
+        "institution_display_name": "Friedrich Miescher Institute",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5067935370",
+        "openalex_institution_id": "https://openalex.org/I860889466",
+        "source": "openalex"
+      },
+      {
+        "name": "Stefan Gerhardy",
+        "affiliation": "ETH Zurich",
+        "institution_display_name": "ETH Zurich",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5038655916",
+        "openalex_institution_id": "https://openalex.org/I35440088",
+        "source": "openalex"
+      },
+      {
+        "name": "Rafal Ciosk",
+        "affiliation": "Friedrich Miescher Institute",
+        "institution_display_name": "Friedrich Miescher Institute",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5076217749",
+        "openalex_institution_id": "https://openalex.org/I860889466",
+        "source": "openalex"
+      },
+      {
+        "name": "Mihaela Zavolan",
+        "affiliation": "University of Basel",
+        "institution_display_name": "University of Basel",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5018588101",
+        "openalex_institution_id": "https://openalex.org/I1850255",
+        "source": "openalex"
+      },
+      {
+        "name": "Frédéric H.‐T. Allain",
+        "affiliation": "ETH Zurich",
+        "institution_display_name": "ETH Zurich",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5088099050",
+        "openalex_institution_id": "https://openalex.org/I35440088",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "RNA Research and Splicing",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Hydrogen Bonds Computing Server (HBCS): An online web server to compute hydrogen-bond interactions and their precision",
+    "citing_authors": "M Gurusaran, P Sivaranjan…",
+    "citing_year": 2016,
+    "citing_venue": "Journal of Applied Crystallography",
+    "citing_paper_url": "https://journals.iucr.org/paper?S1600576716002041",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "M Gurusaran",
+        "profile_url": "https://scholar.google.com/citations?user=qBj0zwkAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 11,
+    "citing_authors_details": [
+      {
+        "name": "Manickam Gurusaran",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5086188357",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "P. Sivaranjan",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5033190775",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "S. Keshava Kumar",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5061359602",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "P. B. Radha",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108396115",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "K. P. S. Thulaa Tharshan",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5022008586",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "S. N. Satheesh",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5011732223",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "K. Jayanthan",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5010616727",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "R. Ilaiyaraja",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5074048945",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "Jayapal Mohanapriya",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5072158003",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "Daliah Michael",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5080319280",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "K. Sekar",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5035649762",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Non-specificity and synergy at the binding site of the carboplatin-induced DNA adduct via molecular dynamics simulations of the MutSα–DNA recognition complex",
+    "citing_authors": "L Negureanu, FR Salsbury Jr",
+    "citing_year": 2014,
+    "citing_venue": "Journal of Biomolecular Structure and Dynamics",
+    "citing_paper_url": "https://www.tandfonline.com/doi/abs/10.1080/07391102.2013.799437",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3884054/pdf/nihms-482498.pdf",
+    "scholar_profiles": [
+      {
+        "name": "FR Salsbury Jr",
+        "profile_url": "https://scholar.google.com/citations?user=M-KJ4zgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 18,
+    "citing_authors_details": [
+      {
+        "name": "Lacramioara Negureanu",
+        "affiliation": "Wake Forest University",
+        "institution_display_name": "Wake Forest University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5069364648",
+        "openalex_institution_id": "https://openalex.org/I47251452",
+        "source": "openalex"
+      },
+      {
+        "name": "Freddie R. Salsbury",
+        "affiliation": "Wake Forest University",
+        "institution_display_name": "Wake Forest University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5000192327",
+        "openalex_institution_id": "https://openalex.org/I47251452",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "DNA Repair Mechanisms",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "MolBridge: a program for identifying nonbonded interactions in small molecules and biomolecular structures",
+    "citing_authors": "P Kumar, S Kailasam, S Chakraborty…",
+    "citing_year": 2014,
+    "citing_venue": "Journal of Applied Crystallography",
+    "citing_paper_url": "https://journals.iucr.org/paper?s160057671401468x",
+    "pdf_url": "https://www.academia.edu/download/72537632/MolBridge_a_program_for_identifying_nonb20211014-18195-1d3m3nc.pdf",
+    "scholar_profiles": [
+      {
+        "name": "P Kumar",
+        "profile_url": "https://scholar.google.com/citations?user=EBswTh4AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Kailasam",
+        "profile_url": "https://scholar.google.com/citations?user=jYjqZM0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Chakraborty",
+        "profile_url": "https://scholar.google.com/citations?user=miI1w_gAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 16,
+    "citing_authors_details": [
+      {
+        "name": "Prasun Kumar",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5054354515",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "Senthilkumar Kailasam",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5086734601",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "Shaunak Chakraborty",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5038098957",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      },
+      {
+        "name": "Manju Bansal",
+        "affiliation": "Indian Institute of Science Bangalore",
+        "institution_display_name": "Indian Institute of Science Bangalore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5013819419",
+        "openalex_institution_id": "https://openalex.org/I59270414",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Crystallography and molecular interactions",
+      "subfield": {
+        "display_name": "Physical and Theoretical Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Exploring the Role of C–H….π Interactions on the Structural Stability of Single Chain “All-Alpha” Proteins",
+    "citing_authors": "V Shanthi, K Ramanathan…",
+    "citing_year": 2010,
+    "citing_venue": "Applied Biochemistry and Biotechnology",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s12010-009-8584-1",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "V Shanthi",
+        "profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 17,
+    "citing_authors_details": [
+      {
+        "name": "V. Shanthi",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5046598829",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "K. Ramanathan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087314141",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Crystallography and molecular interactions",
+      "subfield": {
+        "display_name": "Physical and Theoretical Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Structural insight into the fungal β-glucosidases and their interactions with organics",
+    "citing_authors": "DM Rudakiya, SH Patel, M Narra",
+    "citing_year": 2019,
+    "citing_venue": "International Journal of Biological Macromolecules",
+    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S0141813019338358",
+    "pdf_url": "https://www.researchgate.net/profile/Darshan-Rudakiya/publication/334717041_Structural_insight_into_the_fungal_b-glucosidases_and_their_interactions_with_organics/links/5d41c7e9a6fdcc370a712afd/Structural-insight-into-the-fungal-b-glucosidases-and-their-interactions-with-organics.pdf",
+    "scholar_profiles": [
+      {
+        "name": "DM Rudakiya",
+        "profile_url": "https://scholar.google.com/citations?user=_sjsaVIAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "SH Patel",
+        "profile_url": "https://scholar.google.com/citations?user=FXeGzrYAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "M Narra",
+        "profile_url": "https://scholar.google.com/citations?user=uDGhvtMAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 6,
+    "citing_authors_details": [
+      {
+        "name": "Darshan M. Rudakiya",
+        "affiliation": "Sardar Patel Renewable Energy Research Institute",
+        "institution_display_name": "Sardar Patel Renewable Energy Research Institute",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5024739252",
+        "openalex_institution_id": "https://openalex.org/I4210142682",
+        "source": "openalex"
+      },
+      {
+        "name": "Shriram Patel",
+        "affiliation": "APC Microbiome Institute",
+        "institution_display_name": "APC Microbiome Institute",
+        "country": "IE",
+        "openalex_author_id": "https://openalex.org/A5081583957",
+        "openalex_institution_id": "https://openalex.org/I4210141138",
+        "source": "openalex"
+      },
+      {
+        "name": "Madhuri Narra",
+        "affiliation": "Sardar Patel Renewable Energy Research Institute",
+        "institution_display_name": "Sardar Patel Renewable Energy Research Institute",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5020494437",
+        "openalex_institution_id": "https://openalex.org/I4210142682",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Biofuel production and bioconversion",
+      "subfield": {
+        "display_name": "Biomedical Engineering"
+      },
+      "field": {
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Non-canonical interactions of porphyrins in porphyrin-containing proteins",
+    "citing_authors": "SĐ Stojanović, ER Isenović, BL Zarić",
+    "citing_year": 2012,
+    "citing_venue": "Amino Acids",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s00726-012-1228-8",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "ER Isenović",
+        "profile_url": "https://scholar.google.com/citations?user=O7_46bgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 14,
+    "citing_authors_details": [
+      {
+        "name": "Srđan Đ. Stojanović",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5001441119",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      },
+      {
+        "name": "Esma R. Isenović",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5072077826",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      },
+      {
+        "name": "Božidarka Zarić",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5077228138",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Porphyrin Metabolism and Disorders",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Prediction of anti-EGFR drug resistance base on binding free energy and hydrogen bond analysis",
+    "citing_authors": "W Zhou, DD Wang, H Yan, M Wong…",
+    "citing_year": 2013,
+    "citing_venue": "IEEE Symposium …",
+    "citing_paper_url": "https://ieeexplore.ieee.org/abstract/document/6595408/",
+    "pdf_url": "https://www.researchgate.net/profile/Weiqiang-Zhou-4/publication/257310287_Prediction_of_anti-EGFR_drug_resistance_base_on_binding_free_energy_and_hydrogen_bond_analysis/links/00b4953344c06adfd8000000/Prediction-of-anti-EGFR-drug-resistance-base-on-binding-free-energy-and-hydrogen-bond-analysis.pdf",
+    "scholar_profiles": [
+      {
+        "name": "W Zhou",
+        "profile_url": "https://scholar.google.com/citations?user=BDB3l1oAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "DD Wang",
+        "profile_url": "https://scholar.google.com/citations?user=c_Fwfw0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "H Yan",
+        "profile_url": "https://scholar.google.com/citations?user=oKwuCfAAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "M Wong",
+        "profile_url": "https://scholar.google.com/citations?user=f4hZiRUAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 10,
+    "citing_authors_details": [
+      {
+        "name": "Weiqiang Zhou",
+        "affiliation": "City University of Hong Kong",
+        "institution_display_name": "City University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5024411319",
+        "openalex_institution_id": "https://openalex.org/I168719708",
+        "source": "openalex"
+      },
+      {
+        "name": "Debby D. Wang",
+        "affiliation": "City University of Hong Kong",
+        "institution_display_name": "City University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5032665783",
+        "openalex_institution_id": "https://openalex.org/I168719708",
+        "source": "openalex"
+      },
+      {
+        "name": "Hong Yan",
+        "affiliation": "City University of Hong Kong",
+        "institution_display_name": "City University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5100644375",
+        "openalex_institution_id": "https://openalex.org/I168719708",
+        "source": "openalex"
+      },
+      {
+        "name": "Maria Pik Wong",
+        "affiliation": "University of Hong Kong",
+        "institution_display_name": "University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5103056494",
+        "openalex_institution_id": "https://openalex.org/I889458895",
+        "source": "openalex"
+      },
+      {
+        "name": "Victor Lee",
+        "affiliation": "University of Hong Kong",
+        "institution_display_name": "University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5100743993",
+        "openalex_institution_id": "https://openalex.org/I889458895",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Lung Cancer Treatments and Mutations",
+      "subfield": {
+        "display_name": "Pulmonary and Respiratory Medicine"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Non-canonical H-bonds in β-lactamases: importance of C–H···π interactions",
+    "citing_authors": "P Lavanya, S Ramaiah, A Anbarasu",
+    "citing_year": 2013,
+    "citing_venue": "JBIC Journal of Biological Inorganic Chemistry",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s00775-013-0998-0",
+    "pdf_url": "https://www.researchgate.net/profile/Anand-Anbarasu/publication/236094554_Non-canonical_H-bonds_in_b-lactamases_Importance_of_C-Hp_interactions/links/5445d7d60cf22b3c14ddeff1/Non-canonical-H-bonds-in-b-lactamases-Importance-of-C-Hp-interactions.pdf",
+    "scholar_profiles": [
+      {
+        "name": "P Lavanya",
+        "profile_url": "https://scholar.google.com/citations?user=ClkDegkAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Ramaiah",
+        "profile_url": "https://scholar.google.com/citations?user=ElkN_hQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "A Anbarasu",
+        "profile_url": "https://scholar.google.com/citations?user=HDaQh5cAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 8,
+    "citing_authors_details": [
+      {
+        "name": "P. Lavanya",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5029486701",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Sudha Ramaiah",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087677407",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Anand Anbarasu",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5044438568",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Effects of Metal Ions on Entero-Soluble Poly(methacrylic acid-methyl methacrylate) Coating: A Combined Analysis by ATR-FTIR Spectroscopy and Computational Approaches",
+    "citing_authors": "F Cilurzo, CGM Gennari, F Selmin…",
+    "citing_year": 2010,
+    "citing_venue": "Molecular Pharmaceutics",
+    "citing_paper_url": "https://pubs.acs.org/doi/abs/10.1021/mp900199a",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "F Cilurzo",
+        "profile_url": "https://scholar.google.com/citations?user=ApLhS4QAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "F Selmin",
+        "profile_url": "https://scholar.google.com/citations?user=-GcVsEYAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 12,
+    "citing_authors_details": [
+      {
+        "name": "Francesco Cilurzo",
+        "affiliation": "University of Milan",
+        "institution_display_name": "University of Milan",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5042995755",
+        "openalex_institution_id": "https://openalex.org/I189158943",
+        "source": "openalex"
+      },
+      {
+        "name": "C.G.M. Gennari",
+        "affiliation": "University of Milan",
+        "institution_display_name": "University of Milan",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5026303160",
+        "openalex_institution_id": "https://openalex.org/I189158943",
+        "source": "openalex"
+      },
+      {
+        "name": "Francesca Selmin",
+        "affiliation": "University of Milan",
+        "institution_display_name": "University of Milan",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5087483239",
+        "openalex_institution_id": "https://openalex.org/I189158943",
+        "source": "openalex"
+      },
+      {
+        "name": "Giulio Vistoli",
+        "affiliation": "University of Milan",
+        "institution_display_name": "University of Milan",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5028843194",
+        "openalex_institution_id": "https://openalex.org/I189158943",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Polymer Nanocomposite Synthesis and Irradiation",
+      "subfield": {
+        "display_name": "Polymers and Plastics"
+      },
+      "field": {
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Binding site residues in β-lactamases: role in non-classical interactions and metal binding",
+    "citing_authors": "P Lavanya, S Ramaiah, A Anbarasu",
+    "citing_year": 2014,
+    "citing_venue": "Journal of Coordination Chemistry",
+    "citing_paper_url": "https://www.tandfonline.com/doi/abs/10.1080/00958972.2014.956661",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "P Lavanya",
+        "profile_url": "https://scholar.google.com/citations?user=ClkDegkAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Ramaiah",
+        "profile_url": "https://scholar.google.com/citations?user=ElkN_hQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "A Anbarasu",
+        "profile_url": "https://scholar.google.com/citations?user=HDaQh5cAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 7,
+    "citing_authors_details": [
+      {
+        "name": "P. Lavanya",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5029486701",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Sudha Ramaiah",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087677407",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Anand Anbarasu",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5044438568",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Antibiotic Resistance in Bacteria",
+      "subfield": {
+        "display_name": "Molecular Medicine"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Structure–function studies on non-synonymous SNPs of chemokine receptor gene implicated in cardiovascular disease: A computational approach",
+    "citing_authors": "A Sai Ramesh, R Sethumadhavan, P Thiagarajan",
+    "citing_year": 2013,
+    "citing_venue": "The Protein Journal",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s10930-013-9529-7",
+    "pdf_url": "https://www.academia.edu/download/34469553/protein_journal.pdf",
+    "scholar_profiles": [
+      {
+        "name": "A Sai Ramesh",
+        "profile_url": "https://scholar.google.com/citations?user=gHYMY8YAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 7,
+    "citing_authors_details": [
+      {
+        "name": "A. Ramesh",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5072135547",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Padma Thiagarajan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5091723730",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "RNA and protein synthesis mechanisms",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Function annotation of peptides generated from the non-coding regions of D. melanogaster genome",
+    "citing_authors": "V Deepthi, VVI Nair, V Thomas, N Raj…",
+    "citing_year": 2016,
+    "citing_venue": "Bioinformation",
+    "citing_paper_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267965/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267965/pdf/97320630012202.pdf",
+    "scholar_profiles": [
+      {
+        "name": "N Raj",
+        "profile_url": "https://scholar.google.com/citations?user=z2Ei-0AAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 4,
+    "citing_authors_details": [
+      {
+        "name": "Deepthi Varughese",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5031473233",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Vineetha V. I. Nair",
+        "affiliation": "Indian Institute of Information Technology and Management, Kerala",
+        "institution_display_name": "Indian Institute of Information Technology and Management, Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5103703697",
+        "openalex_institution_id": "https://openalex.org/I68695296",
+        "source": "openalex"
+      },
+      {
+        "name": "Vipin Thomas",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5112270604",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Navya Raj",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5112199529",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Shidhi P.R.",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5110433234",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Juveria Khan",
+        "affiliation": "Jawaharlal Nehru University",
+        "institution_display_name": "Jawaharlal Nehru University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5064147023",
+        "openalex_institution_id": "https://openalex.org/I152429107",
+        "source": "openalex"
+      },
+      {
+        "name": "Monika Kaushik",
+        "affiliation": "Jawaharlal Nehru University",
+        "institution_display_name": "Jawaharlal Nehru University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5004503595",
+        "openalex_institution_id": "https://openalex.org/I152429107",
+        "source": "openalex"
+      },
+      {
+        "name": "Pawan K. Dhar",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5079955221",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      },
+      {
+        "name": "Achuthsankar S. Nair",
+        "affiliation": "University of Kerala",
+        "institution_display_name": "University of Kerala",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5103619457",
+        "openalex_institution_id": "https://openalex.org/I158338959",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "RNA and protein synthesis mechanisms",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Crystal structures of highly simplified BPTIs provide insights into hydration-driven increase of unfolding enthalpy",
+    "citing_authors": "MM Islam, M Yohda, S Kidokoro, Y Kuroda",
+    "citing_year": 2017,
+    "citing_venue": "Scientific Reports",
+    "citing_paper_url": "https://www.nature.com/articles/srep41205",
+    "pdf_url": "https://www.nature.com/articles/srep41205.pdf",
+    "scholar_profiles": [
+      {
+        "name": "MM Islam",
+        "profile_url": "https://scholar.google.com/citations?user=dKS4v_gAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "M Yohda",
+        "profile_url": "https://scholar.google.com/citations?user=NfmuLWkAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Kidokoro",
+        "profile_url": "https://scholar.google.com/citations?user=Y6iqulgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 5,
+    "citing_authors_details": [
+      {
+        "name": "Mohammad Monirul Islam",
+        "affiliation": "Tokyo University of Agriculture and Technology",
+        "institution_display_name": "Tokyo University of Agriculture and Technology",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5103896998",
+        "openalex_institution_id": "https://openalex.org/I92614990",
+        "source": "openalex"
+      },
+      {
+        "name": "Masafumi Yohda",
+        "affiliation": "Tokyo University of Agriculture and Technology",
+        "institution_display_name": "Tokyo University of Agriculture and Technology",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5032695946",
+        "openalex_institution_id": "https://openalex.org/I92614990",
+        "source": "openalex"
+      },
+      {
+        "name": "Shun‐ichi Kidokoro",
+        "affiliation": "Nagaoka University of Technology",
+        "institution_display_name": "Nagaoka University of Technology",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5053955058",
+        "openalex_institution_id": "https://openalex.org/I85922643",
+        "source": "openalex"
+      },
+      {
+        "name": "Yutaka Kuroda",
+        "affiliation": "Tokyo University of Agriculture and Technology",
+        "institution_display_name": "Tokyo University of Agriculture and Technology",
+        "country": "JP",
+        "openalex_author_id": "https://openalex.org/A5010639542",
+        "openalex_institution_id": "https://openalex.org/I92614990",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Contribution of unconventional CH… O bonds to the structural stability of Antimicrobial peptides",
+    "citing_authors": "K Ramanathan, V Shanthi…",
+    "citing_year": 2009,
+    "citing_venue": "Interdisciplinary Sciences …",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s12539-009-0034-9",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "V Shanthi",
+        "profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 9,
+    "citing_authors_details": [
+      {
+        "name": "Shanthi Veerappapillai",
+        "affiliation": "Vellore Institute of Technology",
+        "institution_display_name": "Vellore Institute of Technology",
+        "country": "IN",
+        "email_domain": "vit.ac.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "Analysis of structural water and CH··· π interactions in HIV-1 protease and PTP1B complexes using a hydrogen bond prediction tool, HBPredicT",
+    "citing_authors": "JP Yesudas, FB Sayyed, CH Suresh",
+    "citing_year": 2011,
+    "citing_venue": "Journal of molecular modeling",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s00894-010-0736-2",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "FB Sayyed",
+        "profile_url": "https://scholar.google.com/citations?user=qOu_uoYAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "CH Suresh",
+        "profile_url": "https://scholar.google.com/citations?user=F80HCBgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 7,
+    "citing_authors_details": [
+      {
+        "name": "Joshy P. Yesudas",
+        "affiliation": "National Institute for Interdisciplinary Science and Technology",
+        "institution_display_name": "National Institute for Interdisciplinary Science and Technology",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5036704950",
+        "openalex_institution_id": "https://openalex.org/I146682468",
+        "source": "openalex"
+      },
+      {
+        "name": "Fareed Bhasha Sayyed",
+        "affiliation": "National Institute for Interdisciplinary Science and Technology",
+        "institution_display_name": "National Institute for Interdisciplinary Science and Technology",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5041207056",
+        "openalex_institution_id": "https://openalex.org/I146682468",
+        "source": "openalex"
+      },
+      {
+        "name": "Cherumuttathu H. Suresh",
+        "affiliation": "National Institute for Interdisciplinary Science and Technology",
+        "institution_display_name": "National Institute for Interdisciplinary Science and Technology",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5083009638",
+        "openalex_institution_id": "https://openalex.org/I146682468",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Theoretical understanding of CH… π interactions and their distribution in immunoglobulin proteins–Insilico geometrical approach",
+    "citing_authors": "IA Tayubi, R Sethumadhavan",
+    "citing_year": 2011,
+    "citing_venue": "Int J Pharm Pharm Sci",
+    "citing_paper_url": "https://www.academia.edu/download/94044263/2008.pdf",
+    "pdf_url": "https://www.academia.edu/download/94044263/2008.pdf",
+    "scholar_profiles": [
+      {
+        "name": "IA Tayubi",
+        "profile_url": "https://scholar.google.com/citations?user=eZvAHugAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 8,
+    "citing_authors_details": [
+      {
+        "name": "Iftikhar Tayubi",
+        "affiliation": "King AbdulAziz University",
+        "institution_display_name": "King AbdulAziz University",
+        "country": "SA",
+        "email_domain": "kau.edu.sa",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=eZvAHugAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "Contribution of Non‐Canonical Interactions to the Stability of Sm/LSm Oligomeric Assemblies",
+    "citing_authors": "SĐ Stojanović, ER Isenović, BL Zarić",
+    "citing_year": 2011,
+    "citing_venue": "Molecular Informatics",
+    "citing_paper_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.201000176",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "ER Isenović",
+        "profile_url": "https://scholar.google.com/citations?user=O7_46bgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 6,
+    "citing_authors_details": [
+      {
+        "name": "Srđan Đ. Stojanović",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5001441119",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      },
+      {
+        "name": "Esma R. Isenović",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5072077826",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      },
+      {
+        "name": "Božidarka Zarić",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5077228138",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Theoretical and Computational Physics",
+      "subfield": {
+        "display_name": "Condensed Matter Physics"
+      },
+      "field": {
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "EXPLORING THE ROLE OF <font>C</font>–<font>H</font> … π INTERACTIONS ON THE STRUCTURAL STABILITY OF ANTIMICROBIAL PEPTIDES",
+    "citing_authors": "K Ramanathan, R Sethumadhavan",
+    "citing_year": 2009,
+    "citing_venue": "Journal of Theoretical and Computational Chemistry",
+    "citing_paper_url": "https://www.worldscientific.com/doi/abs/10.1142/S0219633609005155",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 5,
+    "citing_authors_details": [
+      {
+        "name": "K. Ramanathan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087314141",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Antimicrobial Peptides and Activities",
+      "subfield": {
+        "display_name": "Microbiology"
+      },
+      "field": {
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Identifying therapeutic template by evaluating the structural stability of gram positive anti-bacterial peptides-a computational approach",
+    "citing_authors": "K Ramanathan, R Sethumadhavan",
+    "citing_year": 2011,
+    "citing_venue": "Interdisciplinary Sciences Computational Life Sciences",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s12539-011-0088-3",
+    "pdf_url": "https://www.researchgate.net/profile/Isam-Eldin-Elgailani/post/Stability_of_peptides_in_bacteria/attachment/5e8f7549c005cf000182a9cf/AS%3A878490966581251%401586459976951/download/ramanathan2011.pdf",
+    "scholar_profiles": [],
+    "citations_count": 3,
+    "citing_authors_details": [
+      {
+        "name": "K. Ramanathan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087314141",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Antimicrobial Peptides and Activities",
+      "subfield": {
+        "display_name": "Microbiology"
+      },
+      "field": {
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Molecular docking and pharmacophoric modelling of 1, 5-disubstituted tetrazoles as inhibitors of two proteins present in cancer, the ABL and the mutated T315I kinase",
+    "citing_authors": "E Díaz-Cervantes, CJ Cortés-García…",
+    "citing_year": 2020,
+    "citing_venue": "In Silico …",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s40203-020-00059-6",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7680820/pdf/40203_2020_Article_59.pdf",
+    "scholar_profiles": [
+      {
+        "name": "E Díaz-Cervantes",
+        "profile_url": "https://scholar.google.com/citations?user=0ljTMmYAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "CJ Cortés-García",
+        "profile_url": "https://scholar.google.com/citations?user=pjeTl5UAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "Erik Díaz-Cervantes",
+        "affiliation": "Universidad de Guanajuato",
+        "institution_display_name": "Universidad de Guanajuato",
+        "country": "MX",
+        "email_domain": "ugto.mx",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=0ljTMmYAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      },
+      {
+        "name": "CARLOS J. CORTES-GARCIA",
+        "affiliation": "PROFESOR INVESTIGADOR DE TIEMPO COMPLETO",
+        "institution_display_name": "PROFESOR INVESTIGADOR DE TIEMPO COMPLETO",
+        "country": "MX",
+        "email_domain": "umich.mx",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=pjeTl5UAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "A compact review on the comparison of conventional and non-conventional interactions on the structural stability of therapeutic proteins",
+    "citing_authors": "K Ramanathan, V Shanthi…",
+    "citing_year": 2011,
+    "citing_venue": "Interdisciplinary Sciences Computational Life Sciences",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s12539-011-0082-9",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "V Shanthi",
+        "profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 3,
+    "citing_authors_details": [
+      {
+        "name": "K. Ramanathan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087314141",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "V. Shanthi",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5046598829",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Distinct role of non-covalent interactions to the function and structural stability of glutaredoxins: a multifunctional redox protein",
+    "citing_authors": "VR Prasad, BN Tripathi…",
+    "citing_year": 2010,
+    "citing_venue": "International Journal of Bioinformatics Research and Applications",
+    "citing_paper_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2010.034073",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 3,
+    "citing_authors_details": [
+      {
+        "name": "Vibhu Prasad",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5102892405",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Bhumi Nath Tripathi",
+        "affiliation": "Banasthali University",
+        "institution_display_name": "Banasthali University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5032554275",
+        "openalex_institution_id": "https://openalex.org/I102117144",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Redox biology and oxidative stress",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Predicting therapeutic template by evaluating the structural stability of anti-cancer peptides—a computational approach",
+    "citing_authors": "K Ramanathan, V Shanthi, R Rajasekaran…",
+    "citing_year": 2011,
+    "citing_venue": "International Journal of Peptide Research and Therapeutics",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s10989-010-9237-5",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "V Shanthi",
+        "profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "R Rajasekaran",
+        "profile_url": "https://scholar.google.com/citations?user=RfPsWlkAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 3,
+    "citing_authors_details": [
+      {
+        "name": "K. Ramanathan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087314141",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "V. Shanthi",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5046598829",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "R. Rajasekaran",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5100628263",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "C. Sudandiradoss",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5062733579",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "C. George Priya Doss",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5004882772",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Antimicrobial Peptides and Activities",
+      "subfield": {
+        "display_name": "Microbiology"
+      },
+      "field": {
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "In Silico Approaches for Understanding Antimicrobial Resistance in Bacterial Pathogens",
+    "citing_authors": "S Ramaiah, SK Miryala, CK Hithesh Kumar…",
+    "citing_year": 2023,
+    "citing_venue": "WORLD SCIENTIFIC eBooks",
+    "citing_paper_url": "https://www.worldscientific.com/doi/abs/10.1142/9789811254796_0006",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "S Ramaiah",
+        "profile_url": "https://scholar.google.com/citations?user=ElkN_hQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "SK Miryala",
+        "profile_url": "https://scholar.google.com/citations?user=gDSzHLUAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "CK Hithesh Kumar",
+        "profile_url": "https://scholar.google.com/citations?user=AQzKQ8sAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Sudha Ramaiah",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087677407",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Sravan Kumar Miryala",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5027681087",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Challa Kalyan Kumar",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5064811602",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Anand Anbarasu",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5044438568",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Bacterial Identification and Susceptibility Testing",
+      "subfield": {
+        "display_name": "Clinical Biochemistry"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Computational Study Reveals PARP1 and P2Y1 Receptors as Prospective Targets of Withaferin-A for Cardiovascular Diseases",
+    "citing_authors": "R Ravindran, PK Posa Krishnamoorthy…",
+    "citing_year": 2022,
+    "citing_venue": "Letters in Drug Design & Discovery",
+    "citing_paper_url": "https://www.benthamdirect.com/content/journals/lddd/10.2174/1570180819666211228103102",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Rekha Ravindran",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5078047230",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Praveen Kumar",
+        "affiliation": "Indian Institute of Technology Madras",
+        "institution_display_name": "Indian Institute of Technology Madras",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5101578430",
+        "openalex_institution_id": "https://openalex.org/I24676775",
+        "source": "openalex"
+      },
+      {
+        "name": "Sriram Kumar",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5012409833",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Sujata Roy",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5069117230",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Sakthi Abirami Gowthaman",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5066573153",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Johanna Rajkumar",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5103061902",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Phytochemicals and Medicinal Plants",
+      "subfield": {
+        "display_name": "Complementary and alternative medicine"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Interaction of curcumin with different target proteins of Alzheimer's disease: docking and MD simulation studies",
+    "citing_authors": "S Sriraman, NG Saha, S Roy",
+    "citing_year": 2017,
+    "citing_venue": "International Journal of Computational Biology and Drug Design",
+    "citing_paper_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJCBDD.2017.088132",
+    "pdf_url": "https://www.researchgate.net/profile/Sujata-Roy/publication/320798842_Interaction_of_curcumin_with_different_target_proteins_of_Alzheimer's_disease_docking_and_MD_simulation_studies/links/5b0d0e344585157f871cedce/Interaction-of-curcumin-with-different-target-proteins-of-Alzheimers-disease-docking-and-MD-simulation-studies.pdf",
+    "scholar_profiles": [
+      {
+        "name": "S Roy",
+        "profile_url": "https://scholar.google.com/citations?user=dpOAwj4AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "Sujata Roy",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5069117230",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Shraddha Sriraman",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": "GB",
+        "openalex_author_id": "https://openalex.org/A5044320112",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Nanda Gopal Saha",
+        "affiliation": "SciGenom Labs (India)",
+        "institution_display_name": "SciGenom Labs (India)",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5067384700",
+        "openalex_institution_id": "https://openalex.org/I4210154726",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Cholinesterase and Neurodegenerative Diseases",
+      "subfield": {
+        "display_name": "Pharmacology"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Docking studies of 1, 5-disubtituted tetrazoles analogs of the anticancer drug imatinib as probable inhibitors of the ABL kinase and the T315I mutant kinase",
+    "citing_authors": "A Suárez-Castro, CJ Cortes-García, R Gamez-Montaño…",
+    "citing_year": 2017,
+    "citing_venue": "Unknown",
+    "citing_paper_url": "https://sciforum.net/manuscripts/4734/manuscript.pdf",
+    "pdf_url": "https://sciforum.net/manuscripts/4734/manuscript.pdf",
+    "scholar_profiles": [
+      {
+        "name": "A Suárez-Castro",
+        "profile_url": "https://scholar.google.com/citations?user=uS9zRj0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "CJ Cortes-García",
+        "profile_url": "https://scholar.google.com/citations?user=pjeTl5UAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "Abel Suárez Castro",
+        "affiliation": "Ph.D. Student in Chemistry Sciences",
+        "institution_display_name": "Ph.D. Student in Chemistry Sciences",
+        "country": "MX",
+        "email_domain": "umich.mx",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=uS9zRj0AAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      },
+      {
+        "name": "CARLOS J. CORTES-GARCIA",
+        "affiliation": "PROFESOR INVESTIGADOR DE TIEMPO COMPLETO",
+        "institution_display_name": "PROFESOR INVESTIGADOR DE TIEMPO COMPLETO",
+        "country": "MX",
+        "email_domain": "umich.mx",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=pjeTl5UAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "Giving Second Life to a Scientific Software: Introducing Hydrogen Bond Analysis Tool (HBAT) v2",
+    "citing_authors": "A Tiwari",
+    "citing_year": 2025,
+    "citing_venue": "Abhishek Tiwari",
+    "citing_paper_url": "https://www.abhishek-tiwari.com/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2/",
+    "pdf_url": "https://www.abhishek-tiwari.com/pdf/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Abhishek Tiwari",
+        "affiliation": "Jewish General Hospital",
+        "institution_display_name": "Jewish General Hospital",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5100628407",
+        "openalex_institution_id": "https://openalex.org/I2801824472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Service-Oriented Architecture and Web Services",
+      "subfield": {
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Significance of CH/π interactions on the stability of therapeutic proteins",
+    "citing_authors": "K Ramanathan, V Shanthi, R Sethumadhavan",
+    "citing_year": 2009,
+    "citing_venue": "Struct Biol",
+    "citing_paper_url": "https://benthamopen.com/ABSTRACT/TOSBJ-3-1",
+    "pdf_url": "https://benthamopen.com/contents/pdf/TOSBJ/TOSBJ-3-1.pdf",
+    "scholar_profiles": [
+      {
+        "name": "V Shanthi",
+        "profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "K. Ramanathan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087314141",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "V. Shanthi",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5046598829",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "Rao Sethumadhavan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5108472727",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Stabilization of Hoogsteen H-bonds in G-quartet sheets by coordinated K+ ion for enhanced efficiency in guanine-rich DNA nanomotor",
+    "citing_authors": "A Barzegar, N Tohidifar",
+    "citing_year": 2025,
+    "citing_venue": "BioImpacts: BI",
+    "citing_paper_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12204777/",
+    "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12204777/",
+    "scholar_profiles": [
+      {
+        "name": "A Barzegar",
+        "profile_url": "https://scholar.google.com/citations?user=1LMlDbEAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "N Tohidifar",
+        "profile_url": "https://scholar.google.com/citations?user=8jt5Tn0AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Abolfazl Barzegar",
+        "affiliation": "University of Tabriz",
+        "institution_display_name": "University of Tabriz",
+        "country": "IR",
+        "openalex_author_id": "https://openalex.org/A5004697854",
+        "openalex_institution_id": "https://openalex.org/I41832843",
+        "source": "openalex"
+      },
+      {
+        "name": "Nastaran Tohidifar",
+        "affiliation": "University of Tabriz",
+        "institution_display_name": "University of Tabriz",
+        "country": "IR",
+        "openalex_author_id": "https://openalex.org/A5058248770",
+        "openalex_institution_id": "https://openalex.org/I41832843",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Advanced biosensing and bioanalysis techniques",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Inhibition of PKCβ Mediates Cardioprotective Activity of Ambrex against Isoproterenol-Induced Myocardial Necrosis: in vivo and in silico Studies",
+    "citing_authors": "R Ravindran, S Kumar, J Rajkumar, S Roy…",
+    "citing_year": 2018,
+    "citing_venue": "Biology and Medicine",
+    "citing_paper_url": "https://www.academia.edu/download/59043748/Ravindran_et_al20190426-125003-hv8n8d.pdf",
+    "pdf_url": "https://www.academia.edu/download/59043748/Ravindran_et_al20190426-125003-hv8n8d.pdf",
+    "scholar_profiles": [
+      {
+        "name": "R Ravindran",
+        "profile_url": "https://scholar.google.com/citations?user=D5FAzdQAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Kumar",
+        "profile_url": "https://scholar.google.com/citations?user=7FyKACwAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "J Rajkumar",
+        "profile_url": "https://scholar.google.com/citations?user=NafZFgMAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Roy",
+        "profile_url": "https://scholar.google.com/citations?user=dpOAwj4AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Rekha Ravindran",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5078047230",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Sriram Kumar",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": "DE",
+        "openalex_author_id": "https://openalex.org/A5012409833",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Johanna Rajkumar",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5103061902",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Sujata Roy",
+        "affiliation": "Rajalakshmi Engineering College",
+        "institution_display_name": "Rajalakshmi Engineering College",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5069117230",
+        "openalex_institution_id": "https://openalex.org/I4399657946",
+        "source": "openalex"
+      },
+      {
+        "name": "Sathiya Sekar",
+        "affiliation": "Sri Ramachandra Institute of Higher Education and Research",
+        "institution_display_name": "Sri Ramachandra Institute of Higher Education and Research",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5103089275",
+        "openalex_institution_id": "https://openalex.org/I20107917",
+        "source": "openalex"
+      },
+      {
+        "name": "Saravana Babu Chidambaram",
+        "affiliation": "Sri Ramachandra Institute of Higher Education and Research",
+        "institution_display_name": "Sri Ramachandra Institute of Higher Education and Research",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5065120976",
+        "openalex_institution_id": "https://openalex.org/I20107917",
+        "source": "openalex"
+      },
+      {
+        "name": "Mohammad Javed Equbal",
+        "affiliation": "East Texas A&M University",
+        "institution_display_name": "East Texas A&M University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5069494702",
+        "openalex_institution_id": "https://openalex.org/I206651237",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Phytochemicals and Medicinal Plants",
+      "subfield": {
+        "display_name": "Complementary and alternative medicine"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "A Computational Study of Three Frequent Mutations of EGFR and their Effects on Protein Dimer Formation and Non-Small Cell Lung Cancer Drug Resistance",
+    "citing_authors": "Z Shen, DD Wang, L Ma, H Yan…",
+    "citing_year": 2016,
+    "citing_venue": "Current Bioinformatics",
+    "citing_paper_url": "https://www.ingentaconnect.com/content/ben/cbio/2016/00000011/00000003/art00013",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "L Ma",
+        "profile_url": "https://scholar.google.com/citations?user=LK4lx24AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "H Yan",
+        "profile_url": "https://scholar.google.com/citations?user=oKwuCfAAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Zhiyong Shen",
+        "affiliation": "City University of Hong Kong",
+        "institution_display_name": "City University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5063517774",
+        "openalex_institution_id": "https://openalex.org/I168719708",
+        "source": "openalex"
+      },
+      {
+        "name": "Debby D. Wang",
+        "affiliation": ",0",
+        "institution_display_name": "Hong Kong University of Science and Technology",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5032665783",
+        "openalex_institution_id": "https://openalex.org/I200769079",
+        "source": "openalex"
+      },
+      {
+        "name": "Lichun Ma",
+        "affiliation": ",0",
+        "institution_display_name": "National Cancer Institute",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5024413838",
+        "openalex_institution_id": "https://openalex.org/I4210140884",
+        "source": "openalex"
+      },
+      {
+        "name": "Hong Yan",
+        "affiliation": ",0",
+        "institution_display_name": "University of Pennsylvania",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5009985634",
+        "openalex_institution_id": "https://openalex.org/I79576946",
+        "source": "openalex"
+      },
+      {
+        "name": "Maria Pik Wong",
+        "affiliation": ",0",
+        "institution_display_name": "University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5103056494",
+        "openalex_institution_id": "https://openalex.org/I889458895",
+        "source": "openalex"
+      },
+      {
+        "name": "Victor Lee",
+        "affiliation": ",0",
+        "institution_display_name": "University of Hong Kong",
+        "country": "HK",
+        "openalex_author_id": "https://openalex.org/A5100743993",
+        "openalex_institution_id": "https://openalex.org/I889458895",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Colorectal Cancer Treatments and Studies",
+      "subfield": {
+        "display_name": "Oncology"
+      },
+      "field": {
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "STRONG AND WEAK HYDROGEN BONDS IN Sm/LSm OLIGOMERIC ASSEMBLIES: A COMPARISON OF INTRA-AND INTERCHAIN INTERACTION.",
+    "citing_authors": "BL ZARIĆ, MV BUKOROVIĆ…",
+    "citing_year": 2013,
+    "citing_venue": "Digest Journal of …",
+    "citing_paper_url": "https://chalcogen.ro/639_Zaric.pdf",
+    "pdf_url": "https://chalcogen.ro/639_Zaric.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Božidarka Zarić",
+        "affiliation": "University of Belgrade",
+        "institution_display_name": "University of Belgrade",
+        "country": "RS",
+        "openalex_author_id": "https://openalex.org/A5077228138",
+        "openalex_institution_id": "https://openalex.org/I4068193",
+        "source": "openalex"
+      },
+      {
+        "name": "Milica V. Bukorović",
+        "affiliation": "Unknown",
+        "institution_display_name": "Unknown",
+        "country": "Unknown",
+        "openalex_author_id": "https://openalex.org/A5030743789",
+        "openalex_institution_id": "Unknown",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "RNA and protein synthesis mechanisms",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Evolution des mécanismes d'accumulation et de transport de l'iode dans les organismes marins : étude de la structure/fonction des protéines du métabolisme iodé chez la bactérie zobellia galactanivorans",
+    "citing_authors": "JB Fournier",
+    "citing_year": 2014,
+    "citing_venue": "Unknown",
+    "citing_paper_url": "https://theses.hal.science/tel-00959056/",
+    "pdf_url": "https://theses.hal.science/tel-00959056/file/these_archivage_2866462.pdf",
+    "scholar_profiles": [],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "Jean‐Baptiste Fournier",
+        "affiliation": "Station Biologique de Roscoff",
+        "institution_display_name": "Station Biologique de Roscoff",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5028007220",
+        "openalex_institution_id": "https://openalex.org/I2802436875",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Vanadium and Halogenation Chemistry",
+      "subfield": {
+        "display_name": "Inorganic Chemistry"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "IDENTIFICATION OF STABLE ANTI-Viral PEPTIDES FOR THERAPEUTIC APPLICATIONS-A COMPUTATIONAL APPROACH",
+    "citing_authors": "SR MOHAPATRA, V SHANTHI…",
+    "citing_year": 2012,
+    "citing_venue": "Asian Journal of …",
+    "citing_paper_url": "https://www.researchgate.net/profile/Soumya-Mohapatra-4/publication/281676962_Identification_Of_Stable_Anti-Viral_Peptides_for_Therapeutic_Applications_-_A_Computational_Approach/links/584f3f5308aed95c2509984e/Identification-Of-Stable-Anti-Viral-Peptides-for-Therapeutic-Applications-A-Computational-Approach.pdf",
+    "pdf_url": "https://www.researchgate.net/profile/Soumya-Mohapatra-4/publication/281676962_Identification_Of_Stable_Anti-Viral_Peptides_for_Therapeutic_Applications_-_A_Computational_Approach/links/584f3f5308aed95c2509984e/Identification-Of-Stable-Anti-Viral-Peptides-for-Therapeutic-Applications-A-Computational-Approach.pdf",
+    "scholar_profiles": [
+      {
+        "name": "SR MOHAPATRA",
+        "profile_url": "https://scholar.google.com/citations?user=1elDJPUAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "V SHANTHI",
+        "profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Soumya R. Mohapatra",
+        "affiliation": "KIIT University",
+        "institution_display_name": "KIIT University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5057597663",
+        "openalex_institution_id": "https://openalex.org/I67357951",
+        "source": "openalex"
+      },
+      {
+        "name": "V. Shanthi",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5046598829",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "K. Ramanathan",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5087314141",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Antimicrobial Peptides and Activities",
+      "subfield": {
+        "display_name": "Microbiology"
+      },
+      "field": {
+        "display_name": "Immunology and Microbiology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "STRUCTURAL STUDIES OF NUCLEIC ACIDS AND PROTEINS INVOLVED IN NUCLEIC ACID RECOGNITION",
+    "citing_authors": "IR Krauss",
+    "citing_year": "Unknown",
+    "citing_venue": "core.ac.uk",
+    "citing_paper_url": "https://core.ac.uk/download/pdf/11918147.pdf",
+    "pdf_url": "https://core.ac.uk/download/pdf/11918147.pdf",
+    "scholar_profiles": [
+      {
+        "name": "IR Krauss",
+        "profile_url": "https://scholar.google.com/citations?user=81YDVqMAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Irene Russo Krauss",
+        "affiliation": "University of Naples Federico II",
+        "institution_display_name": "University of Naples Federico II",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5036984647",
+        "openalex_institution_id": "https://openalex.org/I71267560",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "DNA and Nucleic Acid Chemistry",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "galactanivorans.",
+    "citing_authors": "JB FOURNIER",
+    "citing_year": 2014,
+    "citing_venue": "Journal of Biological Chemistry",
+    "citing_paper_url": "https://core.ac.uk/download/pdf/39984547.pdf",
+    "pdf_url": "https://core.ac.uk/download/pdf/39984547.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Jan‐Hendrik Hehemann",
+        "affiliation": "Centre National de la Recherche Scientifique",
+        "institution_display_name": "Centre National de la Recherche Scientifique",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5062026003",
+        "openalex_institution_id": "https://openalex.org/I1294671590",
+        "source": "openalex"
+      },
+      {
+        "name": "Gaëlle Correc",
+        "affiliation": "Centre National de la Recherche Scientifique",
+        "institution_display_name": "Centre National de la Recherche Scientifique",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5042715695",
+        "openalex_institution_id": "https://openalex.org/I1294671590",
+        "source": "openalex"
+      },
+      {
+        "name": "François Thomas",
+        "affiliation": "Centre National de la Recherche Scientifique",
+        "institution_display_name": "Centre National de la Recherche Scientifique",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5067519967",
+        "openalex_institution_id": "https://openalex.org/I1294671590",
+        "source": "openalex"
+      },
+      {
+        "name": "Thomas Bernard",
+        "affiliation": "SIB Swiss Institute of Bioinformatics",
+        "institution_display_name": "SIB Swiss Institute of Bioinformatics",
+        "country": "CH",
+        "openalex_author_id": "https://openalex.org/A5100780234",
+        "openalex_institution_id": "https://openalex.org/I12708293",
+        "source": "openalex"
+      },
+      {
+        "name": "Tristan Barbeyron",
+        "affiliation": "Centre National de la Recherche Scientifique",
+        "institution_display_name": "Centre National de la Recherche Scientifique",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5082584118",
+        "openalex_institution_id": "https://openalex.org/I1294671590",
+        "source": "openalex"
+      },
+      {
+        "name": "Murielle Jam",
+        "affiliation": "Station Biologique de Roscoff",
+        "institution_display_name": "Station Biologique de Roscoff",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5033168907",
+        "openalex_institution_id": "https://openalex.org/I2802436875",
+        "source": "openalex"
+      },
+      {
+        "name": "William Helbert",
+        "affiliation": "Station Biologique de Roscoff",
+        "institution_display_name": "Station Biologique de Roscoff",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5054435498",
+        "openalex_institution_id": "https://openalex.org/I2802436875",
+        "source": "openalex"
+      },
+      {
+        "name": "Gurvan Michel",
+        "affiliation": "Station Biologique de Roscoff",
+        "institution_display_name": "Station Biologique de Roscoff",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5082328626",
+        "openalex_institution_id": "https://openalex.org/I2802436875",
+        "source": "openalex"
+      },
+      {
+        "name": "Mirjam Czjzek",
+        "affiliation": "Station Biologique de Roscoff",
+        "institution_display_name": "Station Biologique de Roscoff",
+        "country": "FR",
+        "openalex_author_id": "https://openalex.org/A5079418780",
+        "openalex_institution_id": "https://openalex.org/I2802436875",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Seaweed-derived Bioactive Compounds",
+      "subfield": {
+        "display_name": "Aquatic Science"
+      },
+      "field": {
+        "display_name": "Agricultural and Biological Sciences"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "C--H... O Interactions Stabilize the Structure of the Therapeutic Proteins: A Computational Study",
+    "citing_authors": "K Ramanathan, V Shanthi, R Sethumadhavan",
+    "citing_year": 2011,
+    "citing_venue": "Int. J. Pharm. Pharm. Sci",
+    "citing_paper_url": "Unknown",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "V Shanthi",
+        "profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 4,
+    "citing_authors_details": [
+      {
+        "name": "Shanthi Veerappapillai",
+        "affiliation": "Vellore Institute of Technology",
+        "institution_display_name": "Vellore Institute of Technology",
+        "country": "IN",
+        "email_domain": "vit.ac.in",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=Z0zTZmwAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "Structural Stability by Distribution of NH…. π Interactions in Immunoglobulin Proteins: Structural Bioinformatics Approach.",
+    "citing_authors": "IA Tayubi, SA Hassan",
+    "citing_year": "Unknown",
+    "citing_venue": "Unknown",
+    "citing_paper_url": "Unknown",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "IA Tayubi",
+        "profile_url": "https://scholar.google.com/citations?user=eZvAHugAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Iftikhar Tayubi",
+        "affiliation": "King AbdulAziz University",
+        "institution_display_name": "King AbdulAziz University",
+        "country": "SA",
+        "email_domain": "kau.edu.sa",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=eZvAHugAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  }
+]

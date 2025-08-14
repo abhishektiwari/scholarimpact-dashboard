@@ -1,0 +1,145 @@
+[
+  {
+    "citing_paper_title": "Building secure microservices-based applications using service-mesh architecture",
+    "citing_authors": "R Chandramouli, Z Butcher",
+    "citing_year": 2020,
+    "citing_venue": "NIST Special Publication",
+    "citing_paper_url": "https://csrc.nist.rip/external/nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204A.pdf",
+    "pdf_url": "https://csrc.nist.rip/external/nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204A.pdf",
+    "scholar_profiles": [
+      {
+        "name": "R Chandramouli",
+        "profile_url": "https://scholar.google.com/citations?user=ly8fGZ0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "Z Butcher",
+        "profile_url": "https://scholar.google.com/citations?user=Th5oqf0AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 68,
+    "citing_authors_details": [
+      {
+        "name": "Ramaswamy Chandramouli",
+        "affiliation": "National Institute of Standards and Technology",
+        "institution_display_name": "National Institute of Standards and Technology",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5001686667",
+        "openalex_institution_id": "https://openalex.org/I1321296531",
+        "source": "openalex"
+      },
+      {
+        "name": "Zack Butcher",
+        "affiliation": "Unknown",
+        "institution_display_name": "Unknown",
+        "country": "Unknown",
+        "openalex_author_id": "https://openalex.org/A5004553496",
+        "openalex_institution_id": "Unknown",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software System Performance and Reliability",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Cache Me If You Can: Taming the Caching Complexity of Microservice Call Graphs",
+    "citing_authors": "A Tiwari",
+    "citing_year": 2024,
+    "citing_venue": "Abhishek Tiwari",
+    "citing_paper_url": "https://www.abhishek-tiwari.com/cache-me-if-you-can-taming-the-caching-complexity-of-microservice-call-graphs/",
+    "pdf_url": "https://www.abhishek-tiwari.com/pdf/cache-me-if-you-can-taming-the-caching-complexity-of-microservice-call-graphs.pdf",
+    "scholar_profiles": [],
+    "citations_count": 2,
+    "citing_authors_details": [
+      {
+        "name": "Abhishek Tiwari",
+        "affiliation": "Jewish General Hospital",
+        "institution_display_name": "Jewish General Hospital",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5100628407",
+        "openalex_institution_id": "https://openalex.org/I2801824472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software System Performance and Reliability",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Requirements and Impact Analysis of Applying a Service Mesh to a Distributed off-the Shelf Software System",
+    "citing_authors": "M Herschel",
+    "citing_year": 2023,
+    "citing_venue": "Unknown",
+    "citing_paper_url": "https://d-nb.info/136758227X/34",
+    "pdf_url": "https://d-nb.info/136758227X/34",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": []
+  },
+  {
+    "citing_paper_title": "Microservice hardware and software deployment",
+    "citing_authors": "A Rangarajan, VKA Bache, SR Thangaraj…",
+    "citing_year": 2024,
+    "citing_venue": "US Patent …",
+    "citing_paper_url": "https://patents.google.com/patent/US12131175B2/en",
+    "pdf_url": "https://patentimages.storage.googleapis.com/59/29/81/069c2db0478f21/US12131175.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": []
+  },
+  {
+    "citing_paper_title": "Managing Microservices with a Service Mesh: An implementation of a service mesh with Kubernetes and Istio",
+    "citing_authors": "R Mara Jösch",
+    "citing_year": 2020,
+    "citing_venue": "Unknown",
+    "citing_paper_url": "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1464891",
+    "pdf_url": "https://www.diva-portal.org/smash/get/diva2:1464891/FULLTEXT01.pdf",
+    "scholar_profiles": [],
+    "citations_count": 1,
+    "citing_authors_details": []
+  },
+  {
+    "citing_paper_title": "AUTENTIKOINNIN JA AUKTORISOINNIN TOTEUTTAMINEN MIKROPALVELU-ARKKITEHTUURISSA",
+    "citing_authors": "O Sievi-Korte, D Hästbacka",
+    "citing_year": "Unknown",
+    "citing_venue": "trepo.tuni.fi",
+    "citing_paper_url": "https://trepo.tuni.fi/bitstream/handle/10024/134939/KarvinenRoope.pdf",
+    "pdf_url": "https://trepo.tuni.fi/bitstream/handle/10024/134939/KarvinenRoope.pdf",
+    "scholar_profiles": [
+      {
+        "name": "O Sievi-Korte",
+        "profile_url": "https://scholar.google.com/citations?user=dS7rKkgAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Outi Sievi-Korte",
+        "affiliation": "Assistant professor, Tampere University",
+        "institution_display_name": "Assistant professor, Tampere University",
+        "country": "FI",
+        "email_domain": "tuni.fi",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=dS7rKkgAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  }
+]

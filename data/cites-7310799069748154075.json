@@ -1,0 +1,84 @@
+[
+  {
+    "citing_paper_title": "Software development with feature toggles: practices used by practitioners",
+    "citing_authors": "R Mahdavi-Hezaveh, J Dremann, L Williams",
+    "citing_year": 2021,
+    "citing_venue": "Empirical Software Engineering",
+    "citing_paper_url": "https://link.springer.com/article/10.1007/s10664-020-09901-z",
+    "pdf_url": "https://arxiv.org/pdf/1907.06157",
+    "scholar_profiles": [
+      {
+        "name": "R Mahdavi-Hezaveh",
+        "profile_url": "https://scholar.google.com/citations?user=TMdYKbcAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "L Williams",
+        "profile_url": "https://scholar.google.com/citations?user=Cln2viUAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 36,
+    "citing_authors_details": [
+      {
+        "name": "Rezvan Mahdavi-Hezaveh",
+        "affiliation": "North Carolina State University",
+        "institution_display_name": "North Carolina State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5058035681",
+        "openalex_institution_id": "https://openalex.org/I137902535",
+        "source": "openalex"
+      },
+      {
+        "name": "Jacob Dremann",
+        "affiliation": "North Carolina State University",
+        "institution_display_name": "North Carolina State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5080790344",
+        "openalex_institution_id": "https://openalex.org/I137902535",
+        "source": "openalex"
+      },
+      {
+        "name": "Laurie Williams",
+        "affiliation": "North Carolina State University",
+        "institution_display_name": "North Carolina State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5028171895",
+        "openalex_institution_id": "https://openalex.org/I137902535",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Software Engineering Research",
+      "subfield": {
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "A practical guide to testing in DevOps",
+    "citing_authors": "K Clokie",
+    "citing_year": 2017,
+    "citing_venue": "Victoria, Kanada: Leanpub",
+    "citing_paper_url": "https://www.agileconnection.com/sites/default/files/presentation/file/2019/T17%20-%20Clokie.pdf",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 9,
+    "citing_authors_details": []
+  },
+  {
+    "citing_paper_title": "A Comprehensive Model of Software Configuration",
+    "citing_authors": "RM Hezaveh",
+    "citing_year": 2023,
+    "citing_venue": "Unknown",
+    "citing_paper_url": "https://search.proquest.com/openview/6c36753292063ca62c3fbfef41278b36/1?pq-origsite=gscholar&cbl=18750&diss=y",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": []
+  }
+]

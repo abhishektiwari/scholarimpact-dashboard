@@ -1,0 +1,511 @@
+[
+  {
+    "citing_paper_title": "2D molecular graphics: a flattened world of chemistry and biology",
+    "citing_authors": "P Zhou, Z Shang",
+    "citing_year": 2009,
+    "citing_venue": "Briefings in bioinformatics",
+    "citing_paper_url": "https://journals.aai.org/bib/article/10/3/247/211680",
+    "pdf_url": "https://journals.aai.org/bib/article/10/3/247/211680",
+    "scholar_profiles": [
+      {
+        "name": "P Zhou",
+        "profile_url": "https://scholar.google.com/citations?user=vfRlPOkAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 24,
+    "citing_authors_details": [
+      {
+        "name": "Peng Zhou",
+        "affiliation": "Zhejiang University",
+        "institution_display_name": "Zhejiang University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5100438327",
+        "openalex_institution_id": "https://openalex.org/I76130692",
+        "source": "openalex"
+      },
+      {
+        "name": "Zeng‐Fu Shang",
+        "affiliation": "Southwestern Medical Center",
+        "institution_display_name": "Southwestern Medical Center",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5036676366",
+        "openalex_institution_id": "https://openalex.org/I4388891891",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "RNA visualization: relevance and the current state-of-the-art focusing on pseudoknots",
+    "citing_authors": "B Shabash, KC Wiese",
+    "citing_year": 2016,
+    "citing_venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+    "citing_paper_url": "https://ieeexplore.ieee.org/abstract/document/7414427/",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "B Shabash",
+        "profile_url": "https://scholar.google.com/citations?user=JgSbZbgAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "KC Wiese",
+        "profile_url": "https://scholar.google.com/citations?user=155UuRYAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 13,
+    "citing_authors_details": [
+      {
+        "name": "Boris Shabash",
+        "affiliation": "Simon Fraser University",
+        "institution_display_name": "Simon Fraser University",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5026395089",
+        "openalex_institution_id": "https://openalex.org/I18014758",
+        "source": "openalex"
+      },
+      {
+        "name": "Kay C. Wiese",
+        "affiliation": "Simon Fraser University",
+        "institution_display_name": "Simon Fraser University",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5049270004",
+        "openalex_institution_id": "https://openalex.org/I18014758",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Genomics and Phylogenetic Studies",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Applications of Molecular Dynamics Simulation and MM-PBSA Methods in Discovery of Veterinary Drugs",
+    "citing_authors": "N Kumar, P Mandal, B Kumar, P Rani…",
+    "citing_year": 2025,
+    "citing_venue": "… in Veterinary Science …",
+    "citing_paper_url": "https://link.springer.com/chapter/10.1007/978-981-97-7395-4_14",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "N Kumar",
+        "profile_url": "https://scholar.google.com/citations?user=PL1BA5UAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "P Mandal",
+        "profile_url": "https://scholar.google.com/citations?user=31fPJxIAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "B Kumar",
+        "profile_url": "https://scholar.google.com/citations?user=yMDwb0IAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 2,
+    "citing_authors_details": [
+      {
+        "name": "Nandan Kumar",
+        "affiliation": "Kansas State University",
+        "institution_display_name": "Kansas State University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5072150755",
+        "openalex_institution_id": "https://openalex.org/I189590672",
+        "source": "openalex"
+      },
+      {
+        "name": "Pranabesh Mandal",
+        "affiliation": "Central University of South Bihar",
+        "institution_display_name": "Central University of South Bihar",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5011204500",
+        "openalex_institution_id": "https://openalex.org/I343503978",
+        "source": "openalex"
+      },
+      {
+        "name": "Bikash Kumar",
+        "affiliation": "Indian Institute of Technology Indore",
+        "institution_display_name": "Indian Institute of Technology Indore",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5101637941",
+        "openalex_institution_id": "https://openalex.org/I64295750",
+        "source": "openalex"
+      },
+      {
+        "name": "Priyanka Rani",
+        "affiliation": "Chandigarh University",
+        "institution_display_name": "Chandigarh University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5101535951",
+        "openalex_institution_id": "https://openalex.org/I101407740",
+        "source": "openalex"
+      },
+      {
+        "name": "Durg Vijay Singh",
+        "affiliation": "Central University of South Bihar",
+        "institution_display_name": "Central University of South Bihar",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5012933760",
+        "openalex_institution_id": "https://openalex.org/I343503978",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Computational Drug Discovery Methods",
+      "subfield": {
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Guest editorial: special section on biological data mining and its applications in healthcare",
+    "citing_authors": "F Wang, XL Li, JTL Wang, SK Ng",
+    "citing_year": 2017,
+    "citing_venue": "IEEE/ACM Transactions on Computational Biology and Bioinformatics",
+    "citing_paper_url": "https://ieeexplore.ieee.org/abstract/document/7938559/",
+    "pdf_url": "https://ieeexplore.ieee.org/iel7/8857/7938552/07938559.pdf",
+    "scholar_profiles": [
+      {
+        "name": "F Wang",
+        "profile_url": "https://scholar.google.com/citations?user=FjCbjDYAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "XL Li",
+        "profile_url": "https://scholar.google.com/citations?user=E3yQKloAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "JTL Wang",
+        "profile_url": "https://scholar.google.com/citations?user=Kl1OE9UAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "SK Ng",
+        "profile_url": "https://scholar.google.com/citations?user=_wsommYAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 6,
+    "citing_authors_details": [
+      {
+        "name": "Fei Wang",
+        "affiliation": "Cornell University",
+        "institution_display_name": "Cornell University",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5100455768",
+        "openalex_institution_id": "https://openalex.org/I205783295",
+        "source": "openalex"
+      },
+      {
+        "name": "Xiaoli Li",
+        "affiliation": "Institute for Infocomm Research",
+        "institution_display_name": "Institute for Infocomm Research",
+        "country": "SG",
+        "openalex_author_id": "https://openalex.org/A5100418684",
+        "openalex_institution_id": "https://openalex.org/I3005327000",
+        "source": "openalex"
+      },
+      {
+        "name": "Jason T. L. Wang",
+        "affiliation": "New Jersey Institute of Technology",
+        "institution_display_name": "New Jersey Institute of Technology",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5100378977",
+        "openalex_institution_id": "https://openalex.org/I118118575",
+        "source": "openalex"
+      },
+      {
+        "name": "See-Kiong Ng",
+        "affiliation": "National University of Singapore",
+        "institution_display_name": "National University of Singapore",
+        "country": "SG",
+        "openalex_author_id": "https://openalex.org/A5090171111",
+        "openalex_institution_id": "https://openalex.org/I165932596",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Artificial Intelligence in Healthcare",
+      "subfield": {
+        "display_name": "Health Information Management"
+      },
+      "field": {
+        "display_name": "Health Professions"
+      },
+      "domain": {
+        "display_name": "Health Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Accelerated discovery of new molecules for excitonic solar cells via machine learning and virtual screening",
+    "citing_authors": "Y Wen, H Ma",
+    "citing_year": 2021,
+    "citing_venue": "Chemical modelling",
+    "citing_paper_url": "https://books.rsc.org/books/edited-volume/1503/chapter/1005075",
+    "pdf_url": null,
+    "scholar_profiles": [],
+    "citations_count": 3,
+    "citing_authors_details": [
+      {
+        "name": "Yaping Wen",
+        "affiliation": "Henan Normal University",
+        "institution_display_name": "Henan Normal University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5031525500",
+        "openalex_institution_id": "https://openalex.org/I75955062",
+        "source": "openalex"
+      },
+      {
+        "name": "Haibo Ma",
+        "affiliation": "Qingdao University",
+        "institution_display_name": "Qingdao University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5100705190",
+        "openalex_institution_id": "https://openalex.org/I108688024",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Machine Learning in Materials Science",
+      "subfield": {
+        "display_name": "Materials Chemistry"
+      },
+      "field": {
+        "display_name": "Materials Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Chemical Modelling: Volume 12",
+    "citing_authors": "M Springborg, JO Joswig",
+    "citing_year": 2015,
+    "citing_venue": "Unknown",
+    "citing_paper_url": "https://books.google.com/books?hl=en&lr=&id=s1ZnEQAAQBAJ&oi=fnd&pg=PA1&ots=xfAkOxtfcW&sig=xR1difLTYdClC3BttX326R22cio",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "M Springborg",
+        "profile_url": "https://scholar.google.com/citations?user=Lbf4asgAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "JO Joswig",
+        "profile_url": "https://scholar.google.com/citations?user=Cx3BdzoAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 5,
+    "citing_authors_details": [
+      {
+        "name": "Gloria P. Wren",
+        "affiliation": "Unknown",
+        "institution_display_name": "Unknown",
+        "country": "Unknown",
+        "openalex_author_id": "https://openalex.org/A5114254367",
+        "openalex_institution_id": "Unknown",
+        "source": "openalex"
+      },
+      {
+        "name": "William F. Oberle",
+        "affiliation": "DEVCOM Army Research Laboratory",
+        "institution_display_name": "DEVCOM Army Research Laboratory",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5043512034",
+        "openalex_institution_id": "https://openalex.org/I166416128",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "NMR spectroscopy and applications",
+      "subfield": {
+        "display_name": "Nuclear and High Energy Physics"
+      },
+      "field": {
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Giving Second Life to a Scientific Software: Introducing Hydrogen Bond Analysis Tool (HBAT) v2",
+    "citing_authors": "A Tiwari",
+    "citing_year": 2025,
+    "citing_venue": "Abhishek Tiwari",
+    "citing_paper_url": "https://www.abhishek-tiwari.com/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2/",
+    "pdf_url": "https://www.abhishek-tiwari.com/pdf/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2.pdf",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Abhishek Tiwari",
+        "affiliation": "Jewish General Hospital",
+        "institution_display_name": "Jewish General Hospital",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5100628407",
+        "openalex_institution_id": "https://openalex.org/I2801824472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Service-Oriented Architecture and Web Services",
+      "subfield": {
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Proton transport and the topology of hydrogen bond networks: The case of phosphoric acid and water systems",
+    "citing_authors": "A Mikalčiūtė, L Vilčiauskas",
+    "citing_year": 2021,
+    "citing_venue": "Chemical modelling",
+    "citing_paper_url": "https://books.rsc.org/books/edited-volume/1503/chapter/1005085",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "A Mikalčiūtė",
+        "profile_url": "https://scholar.google.com/citations?user=QXRUIp4AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "L Vilčiauskas",
+        "profile_url": "https://scholar.google.com/citations?user=UspYDQoAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Austėja Mikalčiūtė",
+        "affiliation": "Vilnius University",
+        "institution_display_name": "Vilnius University",
+        "country": "LT",
+        "openalex_author_id": "https://openalex.org/A5014653961",
+        "openalex_institution_id": "https://openalex.org/I173212132",
+        "source": "openalex"
+      },
+      {
+        "name": "Linas Vilčiauskas",
+        "affiliation": "Center for Physical Sciences and Technology",
+        "institution_display_name": "Center for Physical Sciences and Technology",
+        "country": "LT",
+        "openalex_author_id": "https://openalex.org/A5088642676",
+        "openalex_institution_id": "https://openalex.org/I4210087412",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Molecular Sensors and Ion Detection",
+      "subfield": {
+        "display_name": "Spectroscopy"
+      },
+      "field": {
+        "display_name": "Chemistry"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "应用图论分析与最优化理论来数据挖掘大规模水牛普里昂蛋白结构数据",
+    "citing_authors": "张家普， 王凤",
+    "citing_year": 2017,
+    "citing_venue": "运筹学学报",
+    "citing_paper_url": "https://www.ort.shu.edu.cn/EN/abstract/abstract418.shtml",
+    "pdf_url": "https://www.ort.shu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=418",
+    "scholar_profiles": [],
+    "citations_count": 0,
+    "citing_authors_details": []
+  },
+  {
+    "citing_paper_title": "Using graph theory and optimization theory to do data mining the large scale buffalo prion protein structure database",
+    "citing_authors": "JP Zhang, S Chatterjee, F Wang",
+    "citing_year": 2017,
+    "citing_venue": "Oper Res Trans",
+    "citing_paper_url": "Unknown",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "JP Zhang",
+        "profile_url": "https://scholar.google.com/citations?user=g7fdhowAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "S Chatterjee",
+        "profile_url": "https://scholar.google.com/citations?user=AJsDrUAAAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "F Wang",
+        "profile_url": "https://scholar.google.com/citations?user=e1pIT7oAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 1,
+    "citing_authors_details": [
+      {
+        "name": "Jiapu Zhang",
+        "affiliation": "Federation University",
+        "institution_display_name": "Federation University",
+        "country": "AU",
+        "openalex_author_id": "https://openalex.org/A5073312483",
+        "openalex_institution_id": "https://openalex.org/I149672521",
+        "source": "openalex"
+      },
+      {
+        "name": "Subhojyoti Chatterjee",
+        "affiliation": "University of Illinois Urbana-Champaign",
+        "institution_display_name": "University of Illinois Urbana-Champaign",
+        "country": "US",
+        "openalex_author_id": "https://openalex.org/A5103150022",
+        "openalex_institution_id": "https://openalex.org/I157725225",
+        "source": "openalex"
+      },
+      {
+        "name": "Feng Wang",
+        "affiliation": "Nanjing Medical University",
+        "institution_display_name": "Nanjing Medical University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5100431391",
+        "openalex_institution_id": "https://openalex.org/I83519826",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Prion Diseases and Protein Misfolding",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  }
+]
