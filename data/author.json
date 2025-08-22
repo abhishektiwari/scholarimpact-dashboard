@@ -18,7 +18,7 @@
   "i10index5y": 2,
   "scholar_profile_url": "https://scholar.google.com/citations?user=Mb7eYKYAAAAJ",
   "total_publications": 7,
-  "analysis_date": "2025-08-13T20:54:16.728023",
+  "analysis_date": "2025-08-20T22:18:50.252280",
   "publications_analyzed": 7,
   "articles": [
     {
@@ -29,7 +29,49 @@
       "google_scholar_url": "https://www.sciencedirect.com/science/article/pii/S1476927107001107",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=3246870659010184193",
       "cites_id": "3246870659010184193",
-      "analysis_date": "2025-08-13T20:53:53.916194"
+      "analysis_date": "2025-08-20T22:18:25.091276",
+      "openalex_ids": {
+        "openalex": "https://openalex.org/W2000729083",
+        "doi": "https://doi.org/10.1016/j.compbiolchem.2007.08.009",
+        "mag": "2000729083",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/17931570"
+      },
+      "openalex_type": "review",
+      "openalex_citation_normalized_percentile": {
+        "value": 0.78,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "openalex_fwci": 2.55,
+      "openalex_cited_by_count": 87,
+      "openalex_primary_topic": "Scientific Computing and Data Management",
+      "openalex_domain": "Social Sciences",
+      "openalex_field": "Decision Sciences",
+      "openalex_subfield": "Information Systems and Management",
+      "altmetric_score": 9,
+      "altmetric_cited_by_wikipedia_count": 9,
+      "altmetric_cited_by_patents_count": 3,
+      "altmetric_cited_by_accounts_count": 12,
+      "altmetric_cited_by_posts_count": 12,
+      "altmetric_scopus_subjects": [
+        "Life Sciences",
+        "Chemistry",
+        "Physical Sciences",
+        "Mathematics",
+        "Biochemistry, Genetics and Molecular Biology"
+      ],
+      "altmetric_readers": {
+        "citeulike": "19",
+        "mendeley": "202",
+        "connotea": "3"
+      },
+      "altmetric_readers_count": 224,
+      "altmetric_images": {
+        "small": "https://badges.altmetric.com/?size=64&score=9&types=aawwwwww",
+        "medium": "https://badges.altmetric.com/?size=100&score=9&types=aawwwwww",
+        "large": "https://badges.altmetric.com/?size=180&score=9&types=aawwwwww"
+      },
+      "altmetric_details_url": "https://www.altmetric.com/details.php?citation_id=3657645"
     },
     {
       "title": "HBAT: a complete package for analysing strong and weak hydrogen bonds in macromolecular crystal structures",
@@ -39,7 +81,47 @@
       "google_scholar_url": "https://journals.sagepub.com/doi/abs/10.3233/ISI-2007-00337",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=14327779248726238147,7620908687830067523",
       "cites_id": "14327779248726238147,7620908687830067523",
-      "analysis_date": "2025-08-13T20:53:57.827256"
+      "analysis_date": "2025-08-20T22:18:29.534893",
+      "openalex_ids": {
+        "openalex": "https://openalex.org/W1637465330",
+        "doi": "https://doi.org/10.3233/isi-2007-00337",
+        "mag": "1637465330",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/18467777"
+      },
+      "openalex_type": "article",
+      "openalex_citation_normalized_percentile": {
+        "value": 0.959458,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "openalex_fwci": 3.335,
+      "openalex_cited_by_count": 68,
+      "openalex_primary_topic": "Computational Drug Discovery Methods",
+      "openalex_domain": "Physical Sciences",
+      "openalex_field": "Computer Science",
+      "openalex_subfield": "Computational Theory and Mathematics",
+      "altmetric_score": 2,
+      "altmetric_cited_by_accounts_count": 2,
+      "altmetric_cited_by_posts_count": 2,
+      "altmetric_scopus_subjects": [
+        "Life Sciences",
+        "Computer Science",
+        "Physical Sciences",
+        "Mathematics",
+        "Biochemistry, Genetics and Molecular Biology"
+      ],
+      "altmetric_readers": {
+        "citeulike": "0",
+        "mendeley": "35",
+        "connotea": "0"
+      },
+      "altmetric_readers_count": 35,
+      "altmetric_images": {
+        "small": "https://badges.altmetric.com/?size=64&score=2&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=2&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=2&types=tttttttt"
+      },
+      "altmetric_details_url": "https://www.altmetric.com/details.php?citation_id=179616402"
     },
     {
       "title": "HBNG: Graph theory based visualization of hydrogen bond networks in protein structures",
@@ -49,7 +131,41 @@
       "google_scholar_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2139992/",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=201898556188435628",
       "cites_id": "201898556188435628",
-      "analysis_date": "2025-08-13T20:54:01.897036"
+      "analysis_date": "2025-08-20T22:18:33.714866",
+      "openalex_ids": {
+        "openalex": "https://openalex.org/W2029281319",
+        "doi": "https://doi.org/10.6026/97320630002028",
+        "mag": "2029281319",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/18084648",
+        "pmcid": "https://www.ncbi.nlm.nih.gov/pmc/articles/2139992"
+      },
+      "openalex_type": "article",
+      "openalex_citation_normalized_percentile": {
+        "value": 0.484212,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "openalex_fwci": 0.132,
+      "openalex_cited_by_count": 4,
+      "openalex_primary_topic": "Protein Structure and Dynamics",
+      "openalex_domain": "Life Sciences",
+      "openalex_field": "Biochemistry, Genetics and Molecular Biology",
+      "openalex_subfield": "Molecular Biology",
+      "altmetric_score": 5,
+      "altmetric_cited_by_accounts_count": 1,
+      "altmetric_cited_by_posts_count": 1,
+      "altmetric_readers": {
+        "citeulike": "0",
+        "mendeley": "9",
+        "connotea": "0"
+      },
+      "altmetric_readers_count": 9,
+      "altmetric_images": {
+        "small": "https://badges.altmetric.com/?size=64&score=5&types=bbbbbbbb",
+        "medium": "https://badges.altmetric.com/?size=100&score=5&types=bbbbbbbb",
+        "large": "https://badges.altmetric.com/?size=180&score=5&types=bbbbbbbb"
+      },
+      "altmetric_details_url": "https://www.altmetric.com/details.php?citation_id=4310415"
     },
     {
       "title": "A sidecar for your service mesh",
@@ -59,7 +175,22 @@
       "google_scholar_url": "https://www.abhishek-tiwari.com/pdf/a-sidecar-for-your-service-mesh.pdf",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=17570202700690028105",
       "cites_id": "17570202700690028105",
-      "analysis_date": "2025-08-13T20:54:05.880303"
+      "analysis_date": "2025-08-20T22:18:38.270722",
+      "openalex_ids": {
+        "openalex": "https://openalex.org/W4404935008",
+        "doi": "https://doi.org/10.59350/89sdh-7xh23"
+      },
+      "openalex_type": "preprint",
+      "openalex_citation_normalized_percentile": {
+        "value": 0.527805,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "openalex_cited_by_count": 2,
+      "openalex_primary_topic": "Service-Oriented Architecture and Web Services",
+      "openalex_domain": "Physical Sciences",
+      "openalex_field": "Computer Science",
+      "openalex_subfield": "Information Systems"
     },
     {
       "title": "Unveiling Graph Structures in Microservices: Service Dependency Graph, Call Graph, and Causal Graph",
@@ -69,7 +200,7 @@
       "google_scholar_url": "https://www.abhishek-tiwari.com/unveiling-graph-structures-in-microservices-service-dependency-graph-call-graph-and-causal-graph/",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=12862953873024122861",
       "cites_id": "12862953873024122861",
-      "analysis_date": "2025-08-13T20:54:09.481626"
+      "analysis_date": "2025-08-20T22:18:42.139518"
     },
     {
       "title": "Decoupling deployment and release-feature toggles",
@@ -79,7 +210,22 @@
       "google_scholar_url": "https://www.abhishek-tiwari.com/pdf/decoupling-deployment-and-release-feature-toggles.pdf",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=7310799069748154075",
       "cites_id": "7310799069748154075",
-      "analysis_date": "2025-08-13T20:54:13.023872"
+      "analysis_date": "2025-08-20T22:18:45.790855",
+      "openalex_ids": {
+        "openalex": "https://openalex.org/W4404933010",
+        "doi": "https://doi.org/10.59350/6ayra-sc056"
+      },
+      "openalex_type": "preprint",
+      "openalex_citation_normalized_percentile": {
+        "value": 0.0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "openalex_cited_by_count": 0,
+      "openalex_primary_topic": "Advanced Malware Detection Techniques",
+      "openalex_domain": "Physical Sciences",
+      "openalex_field": "Computer Science",
+      "openalex_subfield": "Signal Processing"
     },
     {
       "title": "Polyglot Persistence Patterns",
@@ -89,7 +235,24 @@
       "google_scholar_url": "https://scholar.google.com/scholar?cluster=8164446068622953132&hl=en&oi=scholarr",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=8164446068622953132",
       "cites_id": "8164446068622953132",
-      "analysis_date": "2025-08-13T20:54:16.728004"
+      "analysis_date": "2025-08-20T22:18:49.687149",
+      "openalex_ids": {
+        "openalex": "https://openalex.org/W2092948491",
+        "doi": "https://doi.org/10.1109/icccnt.2013.6726734",
+        "mag": "2092948491"
+      },
+      "openalex_type": "article",
+      "openalex_citation_normalized_percentile": {
+        "value": 0.86824,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "openalex_fwci": 0.911,
+      "openalex_cited_by_count": 15,
+      "openalex_primary_topic": "Distributed systems and fault tolerance",
+      "openalex_domain": "Physical Sciences",
+      "openalex_field": "Computer Science",
+      "openalex_subfield": "Computer Networks and Communications"
     }
   ]
 }
