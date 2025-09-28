@@ -2,13 +2,13 @@
   "scholar_id": "Mb7eYKYAAAAJ",
   "name": "A Tiwari",
   "affiliation": "Head of Engineering at Amazon",
-  "total_citations": 251,
+  "total_citations": 257,
   "interests": [
-    "Network Analysis",
+    "Workflow Systems",
     "Software Engineering",
-    "Microservices",
-    "Security",
-    "Privacy Engineering"
+    "Bioinformatics",
+    "Security & Privacy",
+    "Resilience"
   ],
   "email_domain": "@amazon.com",
   "homepage": "https://www.abhishek-tiwari.com/",
@@ -17,19 +17,19 @@
   "hindex5y": 4,
   "i10index5y": 2,
   "scholar_profile_url": "https://scholar.google.com/citations?user=Mb7eYKYAAAAJ",
-  "total_publications": 7,
-  "analysis_date": "2025-08-20T22:18:50.252280",
-  "publications_analyzed": 7,
+  "total_publications": 8,
+  "analysis_date": "2025-09-28T11:58:31.591015",
+  "publications_analyzed": 8,
   "articles": [
     {
       "title": "Workflow based framework for life science informatics",
       "authors": "Abhishek Tiwari and Arvind KT Sekhar",
       "year": 2007,
-      "total_citations": 148,
+      "total_citations": 151,
       "google_scholar_url": "https://www.sciencedirect.com/science/article/pii/S1476927107001107",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=3246870659010184193",
       "cites_id": "3246870659010184193",
-      "analysis_date": "2025-08-20T22:18:25.091276",
+      "analysis_date": "2025-09-28T11:57:59.735190",
       "openalex_ids": {
         "openalex": "https://openalex.org/W2000729083",
         "doi": "https://doi.org/10.1016/j.compbiolchem.2007.08.009",
@@ -81,7 +81,7 @@
       "google_scholar_url": "https://journals.sagepub.com/doi/abs/10.3233/ISI-2007-00337",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=14327779248726238147,7620908687830067523",
       "cites_id": "14327779248726238147,7620908687830067523",
-      "analysis_date": "2025-08-20T22:18:29.534893",
+      "analysis_date": "2025-09-28T11:58:05.405740",
       "openalex_ids": {
         "openalex": "https://openalex.org/W1637465330",
         "doi": "https://doi.org/10.3233/isi-2007-00337",
@@ -90,11 +90,11 @@
       },
       "openalex_type": "article",
       "openalex_citation_normalized_percentile": {
-        "value": 0.959458,
+        "value": 0.958842,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
-      "openalex_fwci": 3.335,
+      "openalex_fwci": 3.336,
       "openalex_cited_by_count": 68,
       "openalex_primary_topic": "Computational Drug Discovery Methods",
       "openalex_domain": "Physical Sciences",
@@ -131,7 +131,7 @@
       "google_scholar_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2139992/",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=201898556188435628",
       "cites_id": "201898556188435628",
-      "analysis_date": "2025-08-20T22:18:33.714866",
+      "analysis_date": "2025-09-28T11:58:09.939924",
       "openalex_ids": {
         "openalex": "https://openalex.org/W2029281319",
         "doi": "https://doi.org/10.6026/97320630002028",
@@ -141,7 +141,7 @@
       },
       "openalex_type": "article",
       "openalex_citation_normalized_percentile": {
-        "value": 0.484212,
+        "value": 0.485244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -171,18 +171,18 @@
       "title": "A sidecar for your service mesh",
       "authors": "Abhishek Tiwari",
       "year": 2017,
-      "total_citations": 6,
+      "total_citations": 7,
       "google_scholar_url": "https://www.abhishek-tiwari.com/pdf/a-sidecar-for-your-service-mesh.pdf",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=17570202700690028105",
       "cites_id": "17570202700690028105",
-      "analysis_date": "2025-08-20T22:18:38.270722",
+      "analysis_date": "2025-09-28T11:58:13.797760",
       "openalex_ids": {
         "openalex": "https://openalex.org/W4404935008",
         "doi": "https://doi.org/10.59350/89sdh-7xh23"
       },
       "openalex_type": "preprint",
       "openalex_citation_normalized_percentile": {
-        "value": 0.527805,
+        "value": 0.554328,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -200,7 +200,7 @@
       "google_scholar_url": "https://www.abhishek-tiwari.com/unveiling-graph-structures-in-microservices-service-dependency-graph-call-graph-and-causal-graph/",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=12862953873024122861",
       "cites_id": "12862953873024122861",
-      "analysis_date": "2025-08-20T22:18:42.139518"
+      "analysis_date": "2025-09-28T11:58:18.261223"
     },
     {
       "title": "Decoupling deployment and release-feature toggles",
@@ -210,7 +210,7 @@
       "google_scholar_url": "https://www.abhishek-tiwari.com/pdf/decoupling-deployment-and-release-feature-toggles.pdf",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=7310799069748154075",
       "cites_id": "7310799069748154075",
-      "analysis_date": "2025-08-20T22:18:45.790855",
+      "analysis_date": "2025-09-28T11:58:22.201048",
       "openalex_ids": {
         "openalex": "https://openalex.org/W4404933010",
         "doi": "https://doi.org/10.59350/6ayra-sc056"
@@ -228,14 +228,39 @@
       "openalex_subfield": "Signal Processing"
     },
     {
+      "title": "Data pipelines: The hammer for every nail",
+      "authors": "Abhishek Tiwari",
+      "year": 2023,
+      "total_citations": 2,
+      "google_scholar_url": "https://www.abhishek-tiwari.com/data-pipelines-are-new-anti-patterns/",
+      "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=3201566398663720035",
+      "cites_id": "3201566398663720035",
+      "analysis_date": "2025-09-28T11:58:26.520689",
+      "openalex_ids": {
+        "openalex": "https://openalex.org/W4404024308",
+        "doi": "https://doi.org/10.59350/g4jev-hbh56"
+      },
+      "openalex_type": "preprint",
+      "openalex_citation_normalized_percentile": {
+        "value": 0.0,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "openalex_cited_by_count": 0,
+      "openalex_primary_topic": "Big Data Technologies and Applications",
+      "openalex_domain": "Social Sciences",
+      "openalex_field": "Decision Sciences",
+      "openalex_subfield": "Information Systems and Management"
+    },
+    {
       "title": "Polyglot Persistence Patterns",
       "authors": "Abhishek Tiwari",
       "year": 2012,
       "total_citations": 2,
-      "google_scholar_url": "https://scholar.google.com/scholar?cluster=8164446068622953132&hl=en&oi=scholarr",
+      "google_scholar_url": "https://www.researchgate.net/profile/Abhishek-Tiwari-8/publication/395241815_Polyglot_Persistence_Patterns/links/68b8a904ca495d7698325a8a/Polyglot-Persistence-Patterns.pdf",
       "citedby_url": "https://scholar.google.com/scholar?hl=en&cites=8164446068622953132",
       "cites_id": "8164446068622953132",
-      "analysis_date": "2025-08-20T22:18:49.687149",
+      "analysis_date": "2025-09-28T11:58:31.034032",
       "openalex_ids": {
         "openalex": "https://openalex.org/W2092948491",
         "doi": "https://doi.org/10.1109/icccnt.2013.6726734",
@@ -243,12 +268,12 @@
       },
       "openalex_type": "article",
       "openalex_citation_normalized_percentile": {
-        "value": 0.86824,
+        "value": 0.904711,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "openalex_fwci": 0.911,
-      "openalex_cited_by_count": 15,
+      "openalex_cited_by_count": 16,
       "openalex_primary_topic": "Distributed systems and fault tolerance",
       "openalex_domain": "Physical Sciences",
       "openalex_field": "Computer Science",

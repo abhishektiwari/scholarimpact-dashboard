@@ -12,7 +12,7 @@
         "profile_url": "https://scholar.google.com/citations?user=xJFQKrgAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 497,
+    "citations_count": 499,
     "citing_authors_details": [
       {
         "name": "Matthew R. Scholfield",
@@ -292,7 +292,7 @@
         "profile_url": "https://scholar.google.com/citations?user=oB3kyN0AAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 64,
+    "citations_count": 67,
     "citing_authors_details": [
       {
         "name": "Malte Siemers",
@@ -453,7 +453,7 @@
         "profile_url": "https://scholar.google.com/citations?user=IPKE4DgAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 31,
+    "citations_count": 34,
     "citing_authors_details": [
       {
         "name": "Malte Siemers",
@@ -504,7 +504,7 @@
         "profile_url": "https://scholar.google.com/citations?user=Y6iqulgAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 49,
+    "citations_count": 52,
     "citing_authors_details": [
       {
         "name": "Mohammad Monirul Islam",
@@ -569,7 +569,7 @@
         "profile_url": "https://scholar.google.com/citations?user=qKuvQXQAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 89,
+    "citations_count": 90,
     "citing_authors_details": [
       {
         "name": "Sunil K. Panigrahi",
@@ -602,7 +602,7 @@
     "citing_paper_url": "https://journals.asm.org/doi/abs/10.1128/aem.02430-14",
     "pdf_url": "https://journals.asm.org/doi/pdf/10.1128/aem.02430-14",
     "scholar_profiles": [],
-    "citations_count": 66,
+    "citations_count": 68,
     "citing_authors_details": [
       {
         "name": "Jean‐Baptiste Fournier",
@@ -721,7 +721,7 @@
         "profile_url": "https://scholar.google.com/citations?user=Z43FbpEAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 54,
+    "citations_count": 55,
     "citing_authors_details": [
       {
         "name": "Sayed AbdulAzeez",
@@ -845,7 +845,7 @@
         "profile_url": "https://scholar.google.com/citations?user=rRWc6MsAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 50,
+    "citations_count": 51,
     "citing_authors_details": [
       {
         "name": "Joseph D. Yesselman",
@@ -902,7 +902,7 @@
     "citing_authors": "KC Wong",
     "citing_year": 2016,
     "citing_venue": "The Yale Journal of Biology and Medicine",
-    "citing_paper_url": "https://books.google.com/books?hl=en&lr=&id=MuwbDAAAQBAJ&oi=fnd&pg=PP1&ots=gxAyLouLy8&sig=j-CbgvJbDd9sNLjtKoEyXav4Ngw",
+    "citing_paper_url": "https://books.google.com/books?hl=en&lr=&id=MuwbDAAAQBAJ&oi=fnd&pg=PP1&ots=gxACKswOy6&sig=MNgnyOq5RWrHyBFSfGcbtLKvOeM",
     "pdf_url": null,
     "scholar_profiles": [
       {
@@ -956,7 +956,7 @@
         "profile_url": "https://scholar.google.com/citations?user=Gizuc5QAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 30,
+    "citations_count": 32,
     "citing_authors_details": [
       {
         "name": "Debamitra Chakravorty",
@@ -1050,7 +1050,7 @@
     "citing_paper_title": "Low-barrier hydrogen bonds in proteins",
     "citing_authors": "MV Hosur, R Chitra, S Hegde…",
     "citing_year": 2013,
-    "citing_venue": "Journal of the American Chemical Society",
+    "citing_venue": "Crystallography Reviews",
     "citing_paper_url": "https://www.tandfonline.com/doi/abs/10.1080/0889311X.2013.771633",
     "pdf_url": null,
     "scholar_profiles": [
@@ -1062,52 +1062,70 @@
     "citations_count": 35,
     "citing_authors_details": [
       {
-        "name": "Marc Nadal-Ferret",
-        "affiliation": "Universitat Autònoma de Barcelona",
-        "institution_display_name": "Universitat Autònoma de Barcelona",
-        "country": "ES",
-        "openalex_author_id": "https://openalex.org/A5015555955",
-        "openalex_institution_id": "https://openalex.org/I123044942",
+        "name": "M.V. Hosur",
+        "affiliation": "Bhabha Atomic Research Centre",
+        "institution_display_name": "Bhabha Atomic Research Centre",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5084631279",
+        "openalex_institution_id": "https://openalex.org/I1329621470",
         "source": "openalex"
       },
       {
-        "name": "Ricard Gelabert",
-        "affiliation": "Universitat Autònoma de Barcelona",
-        "institution_display_name": "Universitat Autònoma de Barcelona",
-        "country": "ES",
-        "openalex_author_id": "https://openalex.org/A5048926679",
-        "openalex_institution_id": "https://openalex.org/I123044942",
+        "name": "R. Chitra",
+        "affiliation": "Bhabha Atomic Research Centre",
+        "institution_display_name": "Bhabha Atomic Research Centre",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5101717130",
+        "openalex_institution_id": "https://openalex.org/I1329621470",
         "source": "openalex"
       },
       {
-        "name": "Miquel Moreno",
-        "affiliation": "Universitat Autònoma de Barcelona",
-        "institution_display_name": "Universitat Autònoma de Barcelona",
-        "country": "ES",
-        "openalex_author_id": "https://openalex.org/A5025048287",
-        "openalex_institution_id": "https://openalex.org/I123044942",
+        "name": "Samarth Hegde",
+        "affiliation": "Bhabha Atomic Research Centre",
+        "institution_display_name": "Bhabha Atomic Research Centre",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5036013721",
+        "openalex_institution_id": "https://openalex.org/I1329621470",
         "source": "openalex"
       },
       {
-        "name": "José M. Lluch",
-        "affiliation": "Universitat Autònoma de Barcelona",
-        "institution_display_name": "Universitat Autònoma de Barcelona",
-        "country": "ES",
-        "openalex_author_id": "https://openalex.org/A5019073507",
-        "openalex_institution_id": "https://openalex.org/I123044942",
+        "name": "R. R. Choudhury",
+        "affiliation": "Bhabha Atomic Research Centre",
+        "institution_display_name": "Bhabha Atomic Research Centre",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5001009265",
+        "openalex_institution_id": "https://openalex.org/I1329621470",
+        "source": "openalex"
+      },
+      {
+        "name": "Amit Das",
+        "affiliation": "Bhabha Atomic Research Centre",
+        "institution_display_name": "Bhabha Atomic Research Centre",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5100639099",
+        "openalex_institution_id": "https://openalex.org/I1329621470",
+        "source": "openalex"
+      },
+      {
+        "name": "Ramakrishna V. Hosur",
+        "affiliation": "Center for Excellence in Basic Sciences",
+        "institution_display_name": "Center for Excellence in Basic Sciences",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5055374689",
+        "openalex_institution_id": "https://openalex.org/I4210156819",
         "source": "openalex"
       }
     ],
     "primary_topic": {
-      "display_name": "Photoreceptor and optogenetics research",
+      "display_name": "Enzyme Structure and Function",
       "subfield": {
-        "display_name": "Cellular and Molecular Neuroscience"
+        "display_name": "Materials Chemistry"
       },
       "field": {
-        "display_name": "Neuroscience"
+        "display_name": "Materials Science"
       },
       "domain": {
-        "display_name": "Life Sciences"
+        "display_name": "Physical Sciences"
       }
     }
   },
@@ -1226,7 +1244,7 @@
     "citing_paper_url": "https://link.springer.com/article/10.1007/s12010-020-03308-8",
     "pdf_url": null,
     "scholar_profiles": [],
-    "citations_count": 14,
+    "citations_count": 15,
     "citing_authors_details": [
       {
         "name": "Chenghua Wang",
@@ -1296,10 +1314,6 @@
     "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0212492&type=printable",
     "scholar_profiles": [
       {
-        "name": "S Sultana",
-        "profile_url": "https://scholar.google.com/citations?user=CKXEC80AAAAJ&hl=en&oi=sra"
-      },
-      {
         "name": "NB Almandil",
         "profile_url": "https://scholar.google.com/citations?user=Aftyv54AAAAJ&hl=en&oi=sra"
       },
@@ -1308,7 +1322,7 @@
         "profile_url": "https://scholar.google.com/citations?user=sMEDwQMAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 21,
+    "citations_count": 22,
     "citing_authors_details": [
       {
         "name": "Sayed AbdulAzeez",
@@ -1648,7 +1662,7 @@
         "profile_url": "https://scholar.google.com/citations?user=dpOAwj4AAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 19,
+    "citations_count": 21,
     "citing_authors_details": [
       {
         "name": "Rekha Ravindran",
@@ -1692,7 +1706,7 @@
         "profile_url": "https://scholar.google.com/citations?user=qkWUtvsAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 1,
+    "citations_count": 2,
     "citing_authors_details": [
       {
         "name": "K. Kavitha",
@@ -1715,53 +1729,6 @@
     ],
     "primary_topic": {
       "display_name": "Cancer therapeutics and mechanisms",
-      "subfield": {
-        "display_name": "Molecular Biology"
-      },
-      "field": {
-        "display_name": "Biochemistry, Genetics and Molecular Biology"
-      },
-      "domain": {
-        "display_name": "Life Sciences"
-      }
-    }
-  },
-  {
-    "citing_paper_title": "Computational resources for predicting protein–protein interactions",
-    "citing_authors": "H Tanwar, CGP Doss",
-    "citing_year": 2018,
-    "citing_venue": "Advances in protein chemistry and structural biology",
-    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S1876162317300615",
-    "pdf_url": "https://www.researchgate.net/profile/Wenwei-Lin-5/publication/319419928_Using_TR-FRET_to_Investigate_Protein-Protein_Interactions_A_Case_Study_of_PXR-Coregulator_Interaction/links/5c1c5e2c92851c22a33af3d2/Using-TR-FRET-to-Investigate-Protein-Protein-Interactions-A-Case-Study-of-PXR-Coregulator-Interaction.pdf#page=264",
-    "scholar_profiles": [
-      {
-        "name": "CGP Doss",
-        "profile_url": "https://scholar.google.com/citations?user=q9IRb6sAAAAJ&hl=en&oi=sra"
-      }
-    ],
-    "citations_count": 14,
-    "citing_authors_details": [
-      {
-        "name": "Himani Tanwar",
-        "affiliation": "Vellore Institute of Technology University",
-        "institution_display_name": "Vellore Institute of Technology University",
-        "country": "IN",
-        "openalex_author_id": "https://openalex.org/A5085044211",
-        "openalex_institution_id": "https://openalex.org/I876193797",
-        "source": "openalex"
-      },
-      {
-        "name": "C. George Priya Doss",
-        "affiliation": "Vellore Institute of Technology University",
-        "institution_display_name": "Vellore Institute of Technology University",
-        "country": "IN",
-        "openalex_author_id": "https://openalex.org/A5004882772",
-        "openalex_institution_id": "https://openalex.org/I876193797",
-        "source": "openalex"
-      }
-    ],
-    "primary_topic": {
-      "display_name": "Bioinformatics and Genomic Networks",
       "subfield": {
         "display_name": "Molecular Biology"
       },
@@ -1826,6 +1793,53 @@
     ],
     "primary_topic": {
       "display_name": "Signaling Pathways in Disease",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "Computational resources for predicting protein–protein interactions",
+    "citing_authors": "H Tanwar, CGP Doss",
+    "citing_year": 2018,
+    "citing_venue": "Advances in protein chemistry and structural biology",
+    "citing_paper_url": "https://www.sciencedirect.com/science/article/pii/S1876162317300615",
+    "pdf_url": "https://www.researchgate.net/profile/Wenwei-Lin-5/publication/319419928_Using_TR-FRET_to_Investigate_Protein-Protein_Interactions_A_Case_Study_of_PXR-Coregulator_Interaction/links/5c1c5e2c92851c22a33af3d2/Using-TR-FRET-to-Investigate-Protein-Protein-Interactions-A-Case-Study-of-PXR-Coregulator-Interaction.pdf#page=264",
+    "scholar_profiles": [
+      {
+        "name": "CGP Doss",
+        "profile_url": "https://scholar.google.com/citations?user=q9IRb6sAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 14,
+    "citing_authors_details": [
+      {
+        "name": "Himani Tanwar",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5085044211",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      },
+      {
+        "name": "C. George Priya Doss",
+        "affiliation": "Vellore Institute of Technology University",
+        "institution_display_name": "Vellore Institute of Technology University",
+        "country": "IN",
+        "openalex_author_id": "https://openalex.org/A5004882772",
+        "openalex_institution_id": "https://openalex.org/I876193797",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Bioinformatics and Genomic Networks",
       "subfield": {
         "display_name": "Molecular Biology"
       },
@@ -2124,7 +2138,7 @@
     "citing_year": 2018,
     "citing_venue": "Cell Biochemistry and Biophysics",
     "citing_paper_url": "https://link.springer.com/article/10.1007/s12013-017-0818-1",
-    "pdf_url": null,
+    "pdf_url": "https://openaccess.bezmialem.edu.tr/bitstreams/ca5ca294-0690-47e3-9446-2fe0957f0214/download",
     "scholar_profiles": [
       {
         "name": "I Khan",
@@ -2273,7 +2287,7 @@
         "profile_url": "https://scholar.google.com/citations?user=Ws6wkCMAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 21,
+    "citations_count": 22,
     "citing_authors_details": [
       {
         "name": "B. Bagautdinov",
@@ -2600,7 +2614,7 @@
         "profile_url": "https://scholar.google.com/citations?user=M-KJ4zgAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 18,
+    "citations_count": 19,
     "citing_authors_details": [
       {
         "name": "Lacramioara Negureanu",
@@ -3674,7 +3688,7 @@
         "profile_url": "https://scholar.google.com/citations?user=pjeTl5UAAAAJ&hl=en&oi=sra"
       }
     ],
-    "citations_count": 1,
+    "citations_count": 2,
     "citing_authors_details": [
       {
         "name": "Erik Díaz-Cervantes",
@@ -4098,6 +4112,44 @@
     }
   },
   {
+    "citing_paper_title": "Giving Second Life to a Scientific Software: Introducing Hydrogen Bond Analysis Tool (HBAT) v2",
+    "citing_authors": "A Tiwari",
+    "citing_year": 2025,
+    "citing_venue": "Abhishek Tiwari",
+    "citing_paper_url": "https://www.abhishek-tiwari.com/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2/",
+    "pdf_url": "https://www.abhishek-tiwari.com/pdf/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2.pdf",
+    "scholar_profiles": [
+      {
+        "name": "A Tiwari",
+        "profile_url": "https://scholar.google.com/citations?user=A37EH3MAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Abhishek Tiwari",
+        "affiliation": "Jewish General Hospital",
+        "institution_display_name": "Jewish General Hospital",
+        "country": "CA",
+        "openalex_author_id": "https://openalex.org/A5100628407",
+        "openalex_institution_id": "https://openalex.org/I2801824472",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Service-Oriented Architecture and Web Services",
+      "subfield": {
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
     "citing_paper_title": "Docking studies of 1, 5-disubtituted tetrazoles analogs of the anticancer drug imatinib as probable inhibitors of the ABL kinase and the T315I mutant kinase",
     "citing_authors": "A Suárez-Castro, CJ Cortes-García, R Gamez-Montaño…",
     "citing_year": 2017,
@@ -4135,39 +4187,6 @@
         "source": "google_scholar_profile"
       }
     ]
-  },
-  {
-    "citing_paper_title": "Giving Second Life to a Scientific Software: Introducing Hydrogen Bond Analysis Tool (HBAT) v2",
-    "citing_authors": "A Tiwari",
-    "citing_year": 2025,
-    "citing_venue": "Abhishek Tiwari",
-    "citing_paper_url": "https://www.abhishek-tiwari.com/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2/",
-    "pdf_url": "https://www.abhishek-tiwari.com/pdf/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2.pdf",
-    "scholar_profiles": [],
-    "citations_count": 0,
-    "citing_authors_details": [
-      {
-        "name": "Abhishek Tiwari",
-        "affiliation": "Jewish General Hospital",
-        "institution_display_name": "Jewish General Hospital",
-        "country": "CA",
-        "openalex_author_id": "https://openalex.org/A5100628407",
-        "openalex_institution_id": "https://openalex.org/I2801824472",
-        "source": "openalex"
-      }
-    ],
-    "primary_topic": {
-      "display_name": "Service-Oriented Architecture and Web Services",
-      "subfield": {
-        "display_name": "Information Systems"
-      },
-      "field": {
-        "display_name": "Computer Science"
-      },
-      "domain": {
-        "display_name": "Physical Sciences"
-      }
-    }
   },
   {
     "citing_paper_title": "Significance of CH/π interactions on the stability of therapeutic proteins",

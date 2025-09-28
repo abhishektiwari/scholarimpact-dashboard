@@ -1,52 +1,5 @@
 [
   {
-    "citing_paper_title": "2D molecular graphics: a flattened world of chemistry and biology",
-    "citing_authors": "P Zhou, Z Shang",
-    "citing_year": 2009,
-    "citing_venue": "Briefings in bioinformatics",
-    "citing_paper_url": "https://journals.aai.org/bib/article/10/3/247/211680",
-    "pdf_url": "https://journals.aai.org/bib/article/10/3/247/211680",
-    "scholar_profiles": [
-      {
-        "name": "P Zhou",
-        "profile_url": "https://scholar.google.com/citations?user=vfRlPOkAAAAJ&hl=en&oi=sra"
-      }
-    ],
-    "citations_count": 24,
-    "citing_authors_details": [
-      {
-        "name": "Peng Zhou",
-        "affiliation": "Zhejiang University",
-        "institution_display_name": "Zhejiang University",
-        "country": "CN",
-        "openalex_author_id": "https://openalex.org/A5100438327",
-        "openalex_institution_id": "https://openalex.org/I76130692",
-        "source": "openalex"
-      },
-      {
-        "name": "Zeng‐Fu Shang",
-        "affiliation": "Southwestern Medical Center",
-        "institution_display_name": "Southwestern Medical Center",
-        "country": null,
-        "openalex_author_id": "https://openalex.org/A5036676366",
-        "openalex_institution_id": "https://openalex.org/I4388891891",
-        "source": "openalex"
-      }
-    ],
-    "primary_topic": {
-      "display_name": "Protein Structure and Dynamics",
-      "subfield": {
-        "display_name": "Molecular Biology"
-      },
-      "field": {
-        "display_name": "Biochemistry, Genetics and Molecular Biology"
-      },
-      "domain": {
-        "display_name": "Life Sciences"
-      }
-    }
-  },
-  {
     "citing_paper_title": "RNA visualization: relevance and the current state-of-the-art focusing on pseudoknots",
     "citing_authors": "B Shabash, KC Wiese",
     "citing_year": 2016,
@@ -264,15 +217,15 @@
     "citing_paper_url": "https://books.rsc.org/books/edited-volume/1503/chapter/1005075",
     "pdf_url": null,
     "scholar_profiles": [],
-    "citations_count": 3,
+    "citations_count": 4,
     "citing_authors_details": [
       {
         "name": "Yaping Wen",
-        "affiliation": "Henan Normal University",
-        "institution_display_name": "Henan Normal University",
+        "affiliation": "Xiangtan University",
+        "institution_display_name": "Xiangtan University",
         "country": "CN",
         "openalex_author_id": "https://openalex.org/A5031525500",
-        "openalex_institution_id": "https://openalex.org/I75955062",
+        "openalex_institution_id": "https://openalex.org/I4610292",
         "source": "openalex"
       },
       {
@@ -303,7 +256,7 @@
     "citing_authors": "M Springborg, JO Joswig",
     "citing_year": 2015,
     "citing_venue": "Unknown",
-    "citing_paper_url": "https://books.google.com/books?hl=en&lr=&id=s1ZnEQAAQBAJ&oi=fnd&pg=PA1&ots=xfAkOxtfcW&sig=xR1difLTYdClC3BttX326R22cio",
+    "citing_paper_url": "https://books.google.com/books?hl=en&lr=&id=s1ZnEQAAQBAJ&oi=fnd&pg=PA1&ots=xfAoNBvigX&sig=Zd4Z1hGS-R4AAmaGRm8tO5robOo",
     "pdf_url": null,
     "scholar_profiles": [
       {
@@ -356,7 +309,12 @@
     "citing_venue": "Abhishek Tiwari",
     "citing_paper_url": "https://www.abhishek-tiwari.com/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2/",
     "pdf_url": "https://www.abhishek-tiwari.com/pdf/giving-second-life-to-a-scientific-software-introducing-hydrogen-bond-analysis-tool-hbat-v2.pdf",
-    "scholar_profiles": [],
+    "scholar_profiles": [
+      {
+        "name": "A Tiwari",
+        "profile_url": "https://scholar.google.com/citations?user=A37EH3MAAAAJ&hl=en&oi=sra"
+      }
+    ],
     "citations_count": 0,
     "citing_authors_details": [
       {
@@ -379,6 +337,53 @@
       },
       "domain": {
         "display_name": "Physical Sciences"
+      }
+    }
+  },
+  {
+    "citing_paper_title": "2D molecular graphics: a flattened world of chemistry and biology",
+    "citing_authors": "P Zhou, Z Shang",
+    "citing_year": 2009,
+    "citing_venue": "Briefings in bioinformatics",
+    "citing_paper_url": "Unknown",
+    "pdf_url": "https://academic.oup.com/bib/article/10/3/247/211680",
+    "scholar_profiles": [
+      {
+        "name": "P Zhou",
+        "profile_url": "https://scholar.google.com/citations?user=vfRlPOkAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 24,
+    "citing_authors_details": [
+      {
+        "name": "Peng Zhou",
+        "affiliation": "Zhejiang University",
+        "institution_display_name": "Zhejiang University",
+        "country": "CN",
+        "openalex_author_id": "https://openalex.org/A5100438327",
+        "openalex_institution_id": "https://openalex.org/I76130692",
+        "source": "openalex"
+      },
+      {
+        "name": "Zeng‐Fu Shang",
+        "affiliation": "Southwestern Medical Center",
+        "institution_display_name": "Southwestern Medical Center",
+        "country": null,
+        "openalex_author_id": "https://openalex.org/A5036676366",
+        "openalex_institution_id": "https://openalex.org/I4388891891",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Protein Structure and Dynamics",
+      "subfield": {
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "display_name": "Life Sciences"
       }
     }
   },
@@ -478,11 +483,11 @@
       },
       {
         "name": "Subhojyoti Chatterjee",
-        "affiliation": "University of Illinois Urbana-Champaign",
-        "institution_display_name": "University of Illinois Urbana-Champaign",
+        "affiliation": "Rice University",
+        "institution_display_name": "Rice University",
         "country": "US",
         "openalex_author_id": "https://openalex.org/A5103150022",
-        "openalex_institution_id": "https://openalex.org/I157725225",
+        "openalex_institution_id": "https://openalex.org/I74775410",
         "source": "openalex"
       },
       {

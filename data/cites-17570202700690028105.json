@@ -51,13 +51,44 @@
     }
   },
   {
+    "citing_paper_title": "CrossTrace: Efficient Cross-Thread and Cross-Service Span Correlation in Distributed Tracing for Microservices",
+    "citing_authors": "LA Phan, MX Wang, G Wu, W Dawei, C Liqun…",
+    "citing_year": 2025,
+    "citing_venue": "arXiv preprint arXiv …",
+    "citing_paper_url": "https://arxiv.org/abs/2508.11342",
+    "pdf_url": "https://arxiv.org/pdf/2508.11342",
+    "scholar_profiles": [
+      {
+        "name": "MX Wang",
+        "profile_url": "https://scholar.google.com/citations?user=42-yfTsAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "MingXue Wang",
+        "affiliation": "Huawei",
+        "institution_display_name": "Huawei",
+        "country": "IE",
+        "email_domain": "mail.dcu.ie",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=42-yfTsAAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
     "citing_paper_title": "Cache Me If You Can: Taming the Caching Complexity of Microservice Call Graphs",
     "citing_authors": "A Tiwari",
     "citing_year": 2024,
     "citing_venue": "Abhishek Tiwari",
     "citing_paper_url": "https://www.abhishek-tiwari.com/cache-me-if-you-can-taming-the-caching-complexity-of-microservice-call-graphs/",
     "pdf_url": "https://www.abhishek-tiwari.com/pdf/cache-me-if-you-can-taming-the-caching-complexity-of-microservice-call-graphs.pdf",
-    "scholar_profiles": [],
+    "scholar_profiles": [
+      {
+        "name": "A Tiwari",
+        "profile_url": "https://scholar.google.com/citations?user=A37EH3MAAAAJ&hl=en&oi=sra"
+      }
+    ],
     "citations_count": 2,
     "citing_authors_details": [
       {
@@ -88,8 +119,8 @@
     "citing_authors": "M Herschel",
     "citing_year": 2023,
     "citing_venue": "Unknown",
-    "citing_paper_url": "https://d-nb.info/136758227X/34",
-    "pdf_url": "https://d-nb.info/136758227X/34",
+    "citing_paper_url": "https://serwiss.bib.hs-hannover.de/files/3044/herschel2023-ma.pdf",
+    "pdf_url": "https://serwiss.bib.hs-hannover.de/files/3044/herschel2023-ma.pdf",
     "scholar_profiles": [],
     "citations_count": 0,
     "citing_authors_details": []

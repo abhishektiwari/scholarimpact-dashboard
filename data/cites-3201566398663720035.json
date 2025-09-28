@@ -1,0 +1,88 @@
+[
+  {
+    "citing_paper_title": "Prompt2DAG: A Modular Methodology for LLM-Based Data Enrichment Pipeline Generation",
+    "citing_authors": "A Alidu, M Ciavotta, F DePaoli",
+    "citing_year": 2025,
+    "citing_venue": "arXiv preprint arXiv:2509.13487",
+    "citing_paper_url": "https://arxiv.org/abs/2509.13487",
+    "pdf_url": "https://arxiv.org/pdf/2509.13487",
+    "scholar_profiles": [
+      {
+        "name": "M Ciavotta",
+        "profile_url": "https://scholar.google.com/citations?user=726XWk0AAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Michele Ciavotta",
+        "affiliation": "University of Milan-Bicocca",
+        "institution_display_name": "University of Milan-Bicocca",
+        "country": "IT",
+        "email_domain": "unimib.it",
+        "scholar_profile_url": "https://scholar.google.com/citations?user=726XWk0AAAAJ&hl=en&oi=sra",
+        "source": "google_scholar_profile"
+      }
+    ]
+  },
+  {
+    "citing_paper_title": "Prompt2DAG: A Modular Prompting Approach for Democratizing Data Pipeline Generation",
+    "citing_authors": "A Alidu, M Ciavotta, F De Paoli",
+    "citing_year": 2025,
+    "citing_venue": "IEEE International …",
+    "citing_paper_url": "https://ieeexplore.ieee.org/abstract/document/11120388/",
+    "pdf_url": null,
+    "scholar_profiles": [
+      {
+        "name": "M Ciavotta",
+        "profile_url": "https://scholar.google.com/citations?user=726XWk0AAAAJ&hl=en&oi=sra"
+      },
+      {
+        "name": "F De Paoli",
+        "profile_url": "https://scholar.google.com/citations?user=bEA7qmUAAAAJ&hl=en&oi=sra"
+      }
+    ],
+    "citations_count": 0,
+    "citing_authors_details": [
+      {
+        "name": "Abubakari Alidu",
+        "affiliation": "University of Milano-Bicocca",
+        "institution_display_name": "University of Milano-Bicocca",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5116352474",
+        "openalex_institution_id": "https://openalex.org/I66752286",
+        "source": "openalex"
+      },
+      {
+        "name": "Michele Ciavotta",
+        "affiliation": "University of Milano-Bicocca",
+        "institution_display_name": "University of Milano-Bicocca",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5079768184",
+        "openalex_institution_id": "https://openalex.org/I66752286",
+        "source": "openalex"
+      },
+      {
+        "name": "Flavio De Paoli",
+        "affiliation": "University of Milano-Bicocca",
+        "institution_display_name": "University of Milano-Bicocca",
+        "country": "IT",
+        "openalex_author_id": "https://openalex.org/A5049354209",
+        "openalex_institution_id": "https://openalex.org/I66752286",
+        "source": "openalex"
+      }
+    ],
+    "primary_topic": {
+      "display_name": "Peer-to-Peer Network Technologies",
+      "subfield": {
+        "display_name": "Computer Networks and Communications"
+      },
+      "field": {
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "display_name": "Physical Sciences"
+      }
+    }
+  }
+]

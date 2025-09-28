@@ -57,7 +57,12 @@
     "citing_venue": "Abhishek Tiwari",
     "citing_paper_url": "https://www.abhishek-tiwari.com/microservice-architecture-of-alibaba/",
     "pdf_url": "https://www.abhishek-tiwari.com/pdf/microservice-architecture-of-alibaba.pdf",
-    "scholar_profiles": [],
+    "scholar_profiles": [
+      {
+        "name": "A Tiwari",
+        "profile_url": "https://scholar.google.com/citations?user=A37EH3MAAAAJ&hl=en&oi=sra"
+      }
+    ],
     "citations_count": 1,
     "citing_authors_details": [
       {
@@ -141,7 +146,12 @@
     "citing_venue": "Abhishek Tiwari",
     "citing_paper_url": "https://www.abhishek-tiwari.com/distributed-traces-of-microservices-architecture-publicly-available-datasets/",
     "pdf_url": "https://www.abhishek-tiwari.com/pdf/distributed-traces-of-microservices-architecture-publicly-available-datasets.pdf",
-    "scholar_profiles": [],
+    "scholar_profiles": [
+      {
+        "name": "A Tiwari",
+        "profile_url": "https://scholar.google.com/citations?user=A37EH3MAAAAJ&hl=en&oi=sra"
+      }
+    ],
     "citations_count": 0,
     "citing_authors_details": [
       {
@@ -174,7 +184,12 @@
     "citing_venue": "Abhishek Tiwari",
     "citing_paper_url": "https://www.abhishek-tiwari.com/the-hidden-cost-of-success-understanding-non-fatal-errors-in-microservices/",
     "pdf_url": "https://www.abhishek-tiwari.com/pdf/the-hidden-cost-of-success-understanding-non-fatal-errors-in-microservices.pdf",
-    "scholar_profiles": [],
+    "scholar_profiles": [
+      {
+        "name": "A Tiwari",
+        "profile_url": "https://scholar.google.com/citations?user=A37EH3MAAAAJ&hl=en&oi=sra"
+      }
+    ],
     "citations_count": 0,
     "citing_authors_details": [
       {
