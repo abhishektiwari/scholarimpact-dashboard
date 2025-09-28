@@ -5,8 +5,14 @@ This dashboard is created using [ScholarImpact](https://github.com/abhishektiwar
 # Running as Docker container
 
 ```
-docker build -t scholarimpact-dashboard .
+docker build --no-cache -t scholarimpact-dashboard .
 docker run -p 8501:8501 scholarimpact-dashboard 
+```
+
+Remove previous image,
+
+```
+docker rmi -f scholarimpact-dashboard
 ```
 
 As background process,
